@@ -17,3 +17,4 @@ Current Files:
 - [Quarterly Reports](Quarterly-Reports.md)
 - [Reddit AMAs](Reddit-AMAs.md)
 - [Weekly / Monthly Updates](Weekly-Monthly-Updates.md)
+- [DAAs (directory containing pages for all DAAs)](/DAAs)
