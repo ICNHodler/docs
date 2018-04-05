@@ -5,4 +5,4 @@ Columbus Capital LTD is an investment firm based in London. It it led by Igor Er
 
 Columbus Capital took over the running and management of two DAAs formerly managed by Iconomi called ICNX and ICNP. These were rebranded to BLX (Blockchain Index) and CCP (Columbus Capital Pinta).  
 
-Columbus Capital are also in the process of bringing a regulated fund to market which will be listed on a traditional stock exchange.
+Columbus Capital are also in the process of bringing a regulated fund to market which will be listed on a traditional stock exchange, thereby becoming available for professional investors.
