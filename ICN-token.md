@@ -9,7 +9,7 @@ There are several ways in which ICN will be bought back and burned:
 - BLX has a 3% management fee, all of which go towards buybacks.
 - When CCP sells assets, 20% of profits go towards buybacks.
 - Fee for the creation of DAAs. The larger the seed amount, the smaller the fee. From 2000 ICN to free.
-- 0.1% rebalancing fee on the amount of AUM rebalanced above 10% AUM(monthly. 
+- 0.1% rebalancing fee on the amount of AUM rebalanced above 10% AUM(monthly). 
 - Tokenization fee of 2000 ICN
 
 The bought back ICN gets sent to a burn-address, which is tied to a smart contract without a withdraw option. There are currently almost 265,000 ICN in this burn address.
