@@ -15,4 +15,5 @@
 | Users | n/a | n/a | 28,268 | 43,992
 | Employees  | 20+4 | 30+4 | 34+4 | 36
 
-All figures are in USD.
+## Notes
+All figures are in USD. Employee numbers include outsourced employees (identified by + sign)
