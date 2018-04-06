@@ -24,5 +24,8 @@ Date | Milestone
 Description | Link
 ---|---
 ICONOMI Page | https://www.iconomi.net/dashboard/#/daa/BLX
-Manager Website | https://www.columbuscapital.com/
 ERC20 contract | https://etherscan.io/token/0xe5a7c12972f3bbfe70ed29521c8949b8af6a0970
+Manager Website | https://www.columbuscapital.com/
+Manager Twitter | https://twitter.com/columbuscapinfo
+Manager LinkedIn | https://www.linkedin.com/company/columbus-capital/
+Manager Blog | https://medium.com/@columbuscapital
