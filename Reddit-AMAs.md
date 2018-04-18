@@ -2,6 +2,7 @@
 
 Year | Month | Link |# Comments | Answered By
 -----|:-------:|:------:|:--------: | :-------:
+2018 | Apr | https://redd.it/8co5xt | 35 | anthonybeaumont
 2018 | Mar | https://redd.it/85j9vg [(summary)](https://medium.com/iconominet/iconomi-q-a-session-march-edition-9f92303d39c2) | 74 | matejtomazin
 2018 | Feb | https://redd.it/7yvoym [(summary)](https://medium.com/iconominet/iconomi-q-a-session-february-edition-186d9bf217cf) | 95 | matejtomazin
 2018 | Jan | https://redd.it/7qk3yn [(summary)](https://medium.com/iconominet/iconomi-reddit-ask-me-anything-summary-january-edition-50f12c830c86) | 120 | matejtomazin
