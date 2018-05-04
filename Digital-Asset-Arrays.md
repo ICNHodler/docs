@@ -12,7 +12,9 @@ Other DAAs can have higher or lower management fees and not all DAAs have been t
 [Columbus Capital Pinta (CCP)](DAAs/CCP.md) is a closed DAA managed by [Columbus Capital](Columbus-Capital.md) which can only be invested in by holding ICN tokens (the ICN token represents ownership of the fund).
 
 # DAA Creation
-In order to create a DAA, you need a minimum seed amount of $50,000. There is also a 2000 ICN fee for seeds between $50k-100k or a 1500 ICN fee for seeds between $100k-$250k. Managers who seed $250k or more do not pay an ICN fee. Up until March 2018, a minimum seed of $100k was required and there was no ICN fee involved.
+Eventually, all users will be able to create their own DAAs but a date hasn't been specified for this. For now, in order to create a DAA, you need a minimum seed amount of $50,000. There is also a 2000 ICN fee for seeds between $50k-100k or a 1500 ICN fee for seeds between $100k-$250k. Managers who seed $250k or more do not pay an ICN fee. Up until March 2018, a minimum seed of $100k was required and there was no ICN fee involved.
+
+In addition to seed capital, a DAA manager must also convince Iconomi that they have a unique strategy and have the knowledge / skills to be trusted enough to manage other people's money. Applications can be made to daa.manager@iconomi.net
 
 # DAA Tokenization
 From April 2018 on, there is a 2,000 ICN fee for tokenization. This enables a DAA to have its own ERC20 token which can then be transferred freely to/from [ICONOMI](ICONOMI.md) or between individuals without having to use the [ICONOMI](ICONOMI.md) platform.
