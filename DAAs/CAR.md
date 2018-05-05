@@ -4,7 +4,7 @@ CARUS-AR is a [Digital Asset Array](../Digital-Asset-Arrays.md) managed by Menno
 # DAA Strategy
 > The general strategy for investing in the growing crypto market is: diversify and hold (HODL); regular rebalancing every month-sell a small percentage of well performing assets, reinvest in good opportunities; additional rebalancing if an asset surpasses 25% weight or makes large moves up; emergency rebalancing during critical events (CARUS-AR does not sell on panic or news, but we do try to trade major events); no maximum number of assets, which are added based on fundamental analysis and potential.
 
-source: [Official ICONOMI BEA Page](https://www.iconomi.net/dashboard/#/daa/CAR)
+source: [Official ICONOMI CAR Page](https://www.iconomi.net/dashboard/#/daa/CAR)
 
 # Resources
 Description | Link 
