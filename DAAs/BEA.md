@@ -1,4 +1,3 @@
-
 # Blockchain Easy Access (BEA)
 BEA is a [Digital Asset Array](../Digital-Asset-Arrays.md) managed by Blockchain Assets Pty Ltd who are Australia's first digital asset management company. Portfolio managers are Ian Love and Calvin Ngo. BEA currently contains 8 assets varying in weight from 51% to 2%. Annual management fee is 5%.
 
