@@ -1,1 +1,14 @@
+# Greychain Emerging Markets (GEM)
+GEM is a [Digital Asset Array](../Digital-Asset-Arrays.md) founded by Steven Reynolds and managed by a team of traditional financial analysts and industry insiders that use a consensus based approach to project discovery, evaluation and weighting. GEM currently contains 19 assets varying in weight from 20% to 2%. Annual management fee is 3%.
 
+# DAA Strategy
+> This DAA is weighted heavily toward BTC and other value placeholders in order to ensure flexibility for future opportunities in the DAA structure. Our goal is to add projects that meet our investment criteria while monitoring market conditions and balancing asset allocations when they meet our threshold.
+
+source: [Official ICONOMI GEM Page](https://www.iconomi.net/dashboard/#/daa/GEM)
+
+# Resources
+Description | Link 
+---|---
+ICONOMI page | https://www.iconomi.net/dashboard/#/daa/GEM
+Manager Website | http://www.greychaincap.com/
+Manager Blog | https://medium.com/@greychaincapt
