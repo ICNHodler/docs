@@ -13,7 +13,7 @@ Current Files:
 - [ICN Token](ICN-token.md)
 - [ICONOMI ICO](ICONOMI-ICO.md)
 - [ICONOMI](ICONOMI.md)
-- [Noteable Addresses](Noteable-Addresses.md)
+- [Noteable Addresses](Notable-Addresses.md)
 - [Quarterly Reports](Quarterly-Reports.md)
 - [Reddit AMAs](Reddit-AMAs.md)
 - [Weekly / Monthly Updates](Weekly-Monthly-Updates.md)
