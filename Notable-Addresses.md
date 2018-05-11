@@ -13,3 +13,4 @@ Binance | ICN on exchange | [0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be](https:/
 Binance (wallet 1) | ICN on exchange | [0xd551234ae421e3bcba99a0da6d736074f22192ff](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0xd551234ae421e3bcba99a0da6d736074f22192ff)
 Binance (wallet 2) | ICN on exchange | [	0x564286362092d8e7936f0549571a803b203aaced](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0x564286362092d8e7936f0549571a803b203aaced)
 Liqui.io | ICN on exchange | [0x5e575279bf9f4acf0a130c186861454247394c06](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0x5e575279bf9f4acf0a130c186861454247394c06)
+Idex | ICN on exchange | [0x2a0c0dbecc7e4d658f48e01e3fa353f44050c208](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0x2a0c0dbecc7e4d658f48e01e3fa353f44050c208)
