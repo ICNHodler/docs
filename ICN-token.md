@@ -12,6 +12,6 @@ There are several ways in which ICN will be bought back and burned:
 - 0.1% rebalancing fee on the amount of AUM rebalanced above 10% AUM(monthly). 
 - Tokenization fee of 2000 ICN
 
-The bought back ICN gets sent to a burn-address, which is tied to a smart contract without a withdraw option. There are currently almost 265,000 ICN in this burn address.
+The bought back ICN gets sent to a burn-address, which is tied to a smart contract without a withdraw option. There are currently around 843,000 ICN in this burn address.
 
 In addition to the repayment program, ICONOMI can buy ICN for its treasury. They will do this when there is a significant difference in the book value of ICONOMI and ICNs market value. The treasury can also sell the ICN when the opposite occurs and the market value of ICN greatly exceeds book value to the point where ICONOMI deem it to be irrationally exuberant. The ICN in the treasury will not hold voting rights.
