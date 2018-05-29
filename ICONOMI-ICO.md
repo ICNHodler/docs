@@ -1,6 +1,6 @@
 # ICONOMI ICO
 
-The ICONOMI ICO started on 25 August 2016 at 08:00 UTC and ended on 29 September 2016 at 20:00 UTC. A total of $10,682,516.42 (USD) was raised through a combination of BTC, ETH, LSK, EUR and USD.
+The ICONOMI ICO started on 25 August 2016 at 08:00 UTC and ended on 29 September 2016 at 20:00 UTC. A total of $10,682,516.42 (USD) was raised from 3,498 investors through a combination of BTC, ETH, LSK, EUR and USD.
 
 ## Funding Breakdown
 Funding Type | Unit | With Bonuses | Unit Price | Total USD Value 
