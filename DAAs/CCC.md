@@ -17,4 +17,4 @@ Manager Website | https://crushcrypto.com/
 Manager Youtube | https://www.youtube.com/CrushCrypto
 Manager Twitter | https://twitter.com/CrushCrypto
 Manager Facebook | https://www.facebook.com/crushcrypto/
-Iconomi Meet the Manager | https://medium.com/iconominet/daa-manager-insights-victor-lai-4cb0cb58f27b
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-victor-lai-4cb0cb58f27b
