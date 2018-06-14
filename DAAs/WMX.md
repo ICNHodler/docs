@@ -12,3 +12,4 @@ Description | Link
 ICONOMI page | https://www.iconomi.net/dashboard/#/daa/WMX
 Manager Website | http://startupmanagement.org/blog/
 Manager Twitter | https://twitter.com/wmougayar
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-william-mougayar-8e9d162b7dfc
