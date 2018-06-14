@@ -13,4 +13,4 @@ Description | Link
 ICONOMI page | https://www.iconomi.net/dashboard/#/daa/BEA
 Manager Website | https://www.bca.fund/
 Manager Twitter | https://twitter.com/BCAssetsFund
-Iconomi Meet the Manager | https://medium.com/iconominet/daa-manager-insights-blockchain-assets-pty-ltd-11da99a796b7
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-blockchain-assets-pty-ltd-11da99a796b7
