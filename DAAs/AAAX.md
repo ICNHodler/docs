@@ -16,4 +16,4 @@ Manager Twitter | https://twitter.com/asymmetryken/
 Manager Facebook | https://www.facebook.com/asymmetryam/
 Manager Instagram | https://www.instagram.com/asymmetryken/
 Manager Blog | https://medium.com/aaax-asymmetry-asset-array-index
-Iconomi Meet the Manager | https://medium.com/iconominet/daa-manager-insights-kenny-hearn-91120d005330
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-kenny-hearn-91120d005330
