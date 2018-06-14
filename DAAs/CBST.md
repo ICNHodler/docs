@@ -13,4 +13,5 @@ ICONOMI page | https://www.iconomi.net/dashboard/#/daa/CBST
 Manager Website | http://coinbest.es/
 Manager Twitter | https://twitter.com/lander_rubio
 Manager Twitter | https://twitter.com/Molina_Jorda
-Iconomi Meet the Manager | https://medium.com/iconominet/daa-manager-insights-coinbest-group-1a8a46d5ba1b
+Manager Twitter | https://twitter.com/especulacion
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-coinbest-group-1a8a46d5ba1b
