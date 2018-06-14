@@ -13,4 +13,4 @@ ICONOMI page | https://www.iconomi.net/dashboard/#/daa/BIF
 Manager Website | https://ethereal.capital/
 Manager Twitter | https://twitter.com/etherealcapital
 Manager Twitter | https://twitter.com/kristofferjon
-Iconomi Meet the Manager | https://medium.com/iconominet/daa-manager-insights-ethereal-capital-2ff809aef605
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-ethereal-capital-2ff809aef605
