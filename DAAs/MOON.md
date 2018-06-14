@@ -14,3 +14,4 @@ ICONOMI Page | https://www.iconomi.net/dashboard/#/daa/MOON
 Manager Website | https://www.arabfolio.capital/
 Manager Twitter | https://twitter.com/Arabfolio
 Manager Telegram | https://t.me/ArabfolioCapital
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-arabfolio-capital-llc-42ad292d75eb
