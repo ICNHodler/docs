@@ -12,6 +12,7 @@ source: [Official ICONOMI GEM Page](https://www.iconomi.net/dashboard/#/daa/GEM)
 Description | Link 
 ---|---
 ICONOMI page | https://www.iconomi.net/dashboard/#/daa/GEM
+GEM Token Contract | https://etherscan.io/token/0x4046a3b951a7c3e2e4a366ff778b5a60a585107a
 Manager Website | http://www.greychaincap.com/
 Manager Blog | https://medium.com/@greychaincapt
 Manager Twitter | https://twitter.com/greychaincap
