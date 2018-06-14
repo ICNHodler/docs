@@ -14,3 +14,4 @@ Manager Website | https://carus-ar.com/
 Manager Blog | https://carus-ar.com/blog/
 Manager Twitter | https://twitter.com/CARUS_AR
 Manager Youtube | https://www.youtube.com/user/Menno828/
+Iconomi Meet the Manager | https://medium.com/iconominet/daa-manager-insights-menno-peter-pietersen-7023e3db3e3e
