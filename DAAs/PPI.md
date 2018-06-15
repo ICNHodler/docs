@@ -15,3 +15,4 @@ Manager Blog | https://medium.com/@info.phoenixds/
 Manager Twitter | https://twitter.com/PhoenixDecSol
 Manager Facebook | https://www.facebook.com/PhoenixDecentralized/
 Manager LinkedIn | https://www.linkedin.com/company/phoenixdecentralizedsolutions/
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-phoenix-decentralized-solutions-1c5d580f1400

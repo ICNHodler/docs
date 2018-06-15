@@ -11,3 +11,5 @@ Description | Link
 ---|---
 ICONOMI page | https://www.iconomi.net/dashboard/#/daa/PCC
 Manager Website | https://www.pecun.io/
+Manager Twitter | https://twitter.com/Pecun_io
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-reinhard-berger-2ecbfcdc584

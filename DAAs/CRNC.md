@@ -10,3 +10,5 @@ source: [Official ICONOMI CRNC Page](https://www.iconomi.net/dashboard/#/daa/CRN
 Description | Link 
 ---|---
 ICONOMI page | https://www.iconomi.net/dashboard/#/daa/CRNC
+Manager Twitter | https://twitter.com/EladShtilerman
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-elad-shtilerman-4b13ee6acf7d

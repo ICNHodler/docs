@@ -11,3 +11,4 @@ Description | Link
 ---|---
 ICONOMI page | https://www.iconomi.net/dashboard/#/daa/KCOR
 Manager LinkedIn | https://www.linkedin.com/in/arnoldsternberg/
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-arnold-a-sternberg-db0daee96597

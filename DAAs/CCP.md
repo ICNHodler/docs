@@ -15,3 +15,4 @@ ICONOMI page | https://www.iconomi.net/dashboard/#/daa/CCP
 Manager Website | https://www.columbuscapital.com/
 Manager Twitter | https://twitter.com/columbuscapinfo
 Manager LinkedIn | https://www.linkedin.com/company/columbus-capital/
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-columbus-capital-a5776cb98603

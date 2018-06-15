@@ -12,3 +12,6 @@ Description | Link
 ICONOMI page | https://www.iconomi.net/dashboard/#/daa/FCI
 Manager Website | http://futurechainindex.com/
 Manager Blog | https://medium.com/future-chain-index
+Manager Twitter | https://twitter.com/Future_Chain_IX
+Manager Twitter | https://twitter.com/8itpreneur
+ICONOMI Meet the Manager | https://medium.com/iconominet/daa-manager-insights-aljoscha-frick-d5410317ccde
