@@ -3,16 +3,17 @@ The goal of https://github.com/ICNHodler/docs is to enable collaboration between
 
 List of all pages:
 
-- [Columbus Capital Pinta](Columbus-Capital-Pinta.md)
-- [Columbus Capital](Columbus-Capital.md)
+- [ICONOMI](ICONOMI.md)
 - [Digital Asset Arrays](Digital-Asset-Arrays.md)
 - [ICN Token](ICN-token.md)
-- [ICONOMI ICO](ICONOMI-ICO.md)
-- [ICONOMI](ICONOMI.md)
+- [Columbus Capital](Columbus-Capital.md)
+- [Columbus Capital Pinta](Columbus-Capital-Pinta.md)
 - [Notable Addresses](Notable-Addresses.md)
-- [Quarterly Reports](Quarterly-Reports.md)
+- [ICONOMI Quarterly Reports](Quarterly-Reports.md)
+- [ICONOMI Monthly and Weekly Updates](Weekly-Monthly-Updates.md)
 - [Reddit AMAs](Reddit-AMAs.md)
-- [Weekly / Monthly Updates](Weekly-Monthly-Updates.md)
+- [Rocket.chat AMAs](RocketchatAMAArchive.md)
+- [ICONOMI ICO](ICONOMI-ICO.md)
 
 # How to contribute
 > Some people want it to happen, some wish it would happen, others make it happen. - Michael Jordan
