@@ -1,30 +1,29 @@
 # Digital Asset Arrays
-Digital Asset Arrays (DAAs) are the foundation of the [ICONOMI](ICONOMI.md) platform. They're essentially cryptocurrency Index funds - funds comprised of various combinations of cryptocurrency coins and tokens.
+Digital Asset Arrays (DAAs) are the foundation of the [ICONOMI](ICONOMI.md) platform. They're essentially cryptocurrency investment funds comprised of cryptocurrency coins and tokens, with each Array generally taking a different approach or perspective on the market.
 
-At the time of writing there are currently 24 public DAAs which anyone can invest in. Each DAA has a manager which can be an individual or team with various backgrounds and experience in both crypto and financial markets. 
+At the time of writing there are currently 30 public DAAs which anyone can invest in. Each DAA has a manager which can be an individual or team, with various backgrounds and experience in both crypto and financial markets. The Iconomi platform also supports private DAAs, which are not displayed on the public dashboard, or available for public investment. 
 
-An example of a DAA is the [Blockchain Index (BLX)](DAAs/BLX.md) managed by [Columbus Capital](Columbus-Capital.md). It consists of approximately 15% Bitcoin, 15% Ethereum, 13% Dash, 10% Monero and various other coins and tokens. It has a management fee of 3% per year and an exit fee of 0.5% (this is the standard exit fee for all DAAs). 
+An example of a DAA is the [Blockchain Index (BLX)](DAAs/BLX.md) managed by [Columbus Capital](Columbus-Capital.md). It is Iconomi's flagship DAA, and is intended to function as a market index. 
 
-[BLX](DAAs/BLX.md) is tokenized as an ERC20-token, meaning it can be transferred to and from [ICONOMI](ICONOMI.md) in to cold storage or on to exchanges. It can be bought/sold on exchanges but only at the price people are willing to pay. US citizens can't currently register on the Iconomi platform so buying DAAs on 3rd party exchanges is the only way they can invest in DAAs. 
-
-Other DAAs can have higher or lower management fees and not all DAAs have been tokenised.
-
-[Columbus Capital Pinta (CCP)](DAAs/CCP.md) is a closed DAA managed by [Columbus Capital](Columbus-Capital.md) which can only be invested in by holding ICN tokens (the ICN token represents ownership of the fund).
+[Columbus Capital Pinta (CCP)](DAAs/CCP.md) is a closed DAA also managed by [Columbus Capital](Columbus-Capital.md) which can only be invested in by holding ICN tokens (the ICN token represents ownership of the fund).
 
 # DAA Creation
-Eventually, all users will be able to create their own DAAs but a date hasn't been specified for this. For now, in order to create a DAA, you need a minimum seed amount of $50,000. There is also a 2000 ICN fee for seeds between $50k-100k or a 1500 ICN fee for seeds between $100k-$250k. Managers who seed $250k or more do not pay an ICN fee. Up until March 2018, a minimum seed of $100k was required and there was no ICN fee involved.
+Eventually, all users will be able to create and manage their own DAAs, but an implementation date for this hasn't yet been specified. Currently, in order to create a DAA, a manager must supply seed capital. For seed amounts of between $50,000 and $100,000, a fee of 2000 ICN must be paid. For seed amounts of between $100,000 and $250,000, a 1500 ICN fee must be paid. Managers who seed $250,000 or more do not pay an ICN fee. Up until March 2018, a minimum seed of $100,000 was required and there was no ICN fee.
 
-In addition to seed capital, a DAA manager must also convince Iconomi that they have a unique strategy and have the knowledge / skills to be trusted enough to manage other people's money. Applications can be made to daa.manager@iconomi.net
+In addition to seed capital, a DAA manager is vetted by and must convince Iconomi that they have a unique strategy and have the knowledge and skills to be trusted enough to manage other people's money. Applications can be made to daa.manager@iconomi.net. 
 
 # DAA Tokenization
-From April 2018 on, there is a 2,000 ICN fee for tokenization. This enables a DAA to have its own ERC20 token which can then be transferred freely to/from [ICONOMI](ICONOMI.md) or between individuals without having to use the [ICONOMI](ICONOMI.md) platform.
+From April 2018 on, there is a 2,000 ICN fee for tokenization. This enables a DAA to have its own ERC20 token which can then be transferred freely to or from the [ICONOMI](ICONOMI.md) platform to any Ethereum address, into cold storage or between individuals. 
+
+The DAAs [BLX](DAAs/BLX.md), [GEM](DAAs/GEM.md) and [CCC](DAAs/CCC.md) have so far been tokenized. They may be bought or sold on exchanges on the open market. US citizens can't currently register on the Iconomi platform so buying DAAs on 3rd party exchanges is the only way they can invest directly in DAAs.
 
 # DAA Rebalancing
-DAA managers initially allocate a fixed percentage weight to all of their assets. Over time, as the price of individual assets rises and falls, the percentage weight of assets may vary greatly from the initial percentage weight allocated. For example if a DAA is comprised of 50% BTC and 50% ETH and the price of ETH rises 20%, the weights will now be 40% BTC an 60% ETH. Rebalancing simply buys / sells individual assets so that weights are reset to the DAA managers target percentage.
+DAA managers initially allocate a fixed percentage weight to all of their assets. Over time, as the price of individual assets change, the relative percentage weight of the array may end up varying greatly. For example if a DAA is comprised of 50% BTC and 50% ETH and the price of ETH rises 20%, the weights will now be 40% BTC an 60% ETH. Rebalancing simply buys and sells individual assets so that weights are reset to the DAA managers target percentage. Most managers currently rebalance monthly. 
+
+# DAA Management Fees
+Managers are paid in the token of the DAA they manage. DAA management fees reward DAA managers and incentivise them to manage and promote their DAAs. These are annual fees and can be specified by the DAA manager (between 1% and 10%). Of this number, ICONOMI get a 30% cut, and managers retain 70%. The fees are charged daily from the AUM of the DAA i.e. if a management fee is 2%, then the calculation for daily fees is 2%/365 = .00547% per day. 
 
 Rebalancing up to a 10% change in assets under management (AUM) per month is free. Rebalancing over the 10% threshold incurs a fee of 0.1% on the AUM over the threshold. For example if a DAA has $1m AUM, and rebalances in a month total $90k, there are no costs. If rebalances total $120k in a month, a 0.1% fee is charge on $20k.
 
-# DAA Management Fees
-DAA management fees reward DAA managers and incentivise them to manage and promote their DAAs. These are annual fees and can be specified by the DAA manager (between 1% and 10%). Of this number, ICONOMI get a 30% cut. The fees are charged daily from the AUM of the DAA i.e. if a management fee is 2%, then the calculation for daily fees is 2%/365 = .00547% per day.
-
-Fees generated by DAAs are used to buy ICN tokens from the market as part of [ICONOMI's ](ICONOMI.md) repayment programme. From July 2018, DAA management fees will be collected and converted to ICN on a daily basis, then burned at the end of each quarter. Up until that point, management fees were used to purchase and burn ICN at the end of every quarter. [source](https://medium.com/iconominet/introducing-fees-payable-in-icn-4c466e17a6cb)
+The fees generated by DAAs that are not paid to the manager are used to buy ICN tokens from the market as part of [ICONOMI's ](ICONOMI.md) repayment program. From July 2018, DAA management fees will be collected and converted to ICN on a daily basis, then burned at the end of each quarter. Up until that point, management fees were used to purchase and burn ICN at the end of every quarter.
+[Source](https://medium.com/iconominet/introducing-fees-payable-in-icn-4c466e17a6cb)
