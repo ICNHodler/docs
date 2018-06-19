@@ -3,9 +3,7 @@
 Questions asked on the ICONOMI Rocket.chat on the #amaquestions channel are answered by the team. However these answers may over time become difficult to find due to the continuous scrolling nature of the Rocket.chat. As such, answered questions will be archived on this page for posterity and ease of reference. 
   
 # Q1
-When do you envision any user, big or small, being able to use the fiat gateway for deposits? 
-
-*Asked by @ironjack*
+When do you envision any user, big or small, being able to use the fiat gateway for deposits? *Asked by @ironjack*
 
 > The first stage of the fiat ramp-up will be ready this month. We'll explain the process in more detail in a blog post, so stay tuned.
 *Answered May 21st 2018*
