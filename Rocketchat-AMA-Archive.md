@@ -4,6 +4,7 @@ Questions asked on the ICONOMI Rocket.chat on the #amaquestions channel are answ
   
 # Q1
 When do you envision any user, big or small, being able to use the fiat gateway for deposits? 
+
 *Asked by @ironjack*
 
 > The first stage of the fiat ramp-up will be ready this month. We'll explain the process in more detail in a blog post, so stay tuned.
@@ -189,11 +190,13 @@ It was said in the roadmap for 2018 that marketing efforts would step up from Q3
 2. Are you encountering any legal difficulties in advertising crypto investments generally, or are you aware of specific Maltese (or other) restrictions that will affect your efforts?
 3. Are you taking any steps to market or promote the usage of the ICN token along with the general Iconomi platform?
 4. Are you encountering any legal difficulties in advertising the ICN token specifically, or are you aware of specific Maltese (or other) restrictions that will affect your efforts?
+
 *Asked by @RayQuin*
 
 > The word of mouth approach was one of the most effective marketing strategies for 2016/17 in the blockchain industry as a whole. Since then, our marketing and communication strategy has changed tremendously and evolved into a strategy that takes into account several different verticals/target groups as well as geographical specifics. For the last six months, we have been building important connections in the crypto-economy and have started organizing events where we and our DAA managers can connect with important influencers in crypto as well as in the traditional financial industry. We are also attending different conferences and events where we are able to actively promote our platform and introduce it to a new audience. Our PR activities are a constant companion to our major milestones and other communications.
 
-Just like other blockchain-based companies, we are aware of the current lack of a regulatory framework in the crypto-economy and are proactively pursuing and are in talks with regulators, both domestic and foreign. We are making sure our marketing and advertising activities are in line with the current state of regulation, which is the only way to create a stable foundation for the future of the company. We are in this for the long term, and our marketing activities will resonate with that mission.
+> Just like other blockchain-based companies, we are aware of the current lack of a regulatory framework in the crypto-economy and are proactively pursuing and are in talks with regulators, both domestic and foreign. We are making sure our marketing and advertising activities are in line with the current state of regulation, which is the only way to create a stable foundation for the future of the company. We are in this for the long term, and our marketing activities will resonate with that mission.
+
 *Answered June 19th 2018*
 
 # Q27
