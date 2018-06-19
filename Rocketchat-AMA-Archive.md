@@ -3,7 +3,8 @@
 Questions asked on the ICONOMI Rocket.chat on the #amaquestions channel are answered by the team. However these answers may over time become difficult to find due to the continuous scrolling nature of the Rocket.chat. As such, answered questions will be archived on this page for posterity and ease of reference. 
   
 # Q1
-When do you envision any user, big or small, being able to use the fiat gateway for deposits? *Asked by @ironjack*
+When do you envision any user, big or small, being able to use the fiat gateway for deposits? 
+*Asked by @ironjack*
 
 > The first stage of the fiat ramp-up will be ready this month. We'll explain the process in more detail in a blog post, so stay tuned.
 *Answered May 21st 2018*
@@ -73,7 +74,7 @@ Are there plans to remove or increase the max amount users can buy/sell on the p
 *Answered June 19th 2018*
 
 # Q11
-What are iconomi’s targets for number of users for end of q2, q3 and q4?
+What are iconomi's targets for number of users for end of q2, q3 and q4?
 *Asked by @stephen*
 
 > We are not disclosing internal targets at this time, especially not short-term targets, which can change very quickly.
@@ -87,7 +88,7 @@ is this timeline still accurate? "The DAA creation and rebalancing fees will be 
 *Answered June 19th 2018*
 
 # Q13
-Iconomi owns both the .net and .com domain. Often times larger companies will tend to use the .com domain as it’s considered slightly more reputable (at least in the USA). What was/is the reasoning for using the .net domain and is there any consideration to forward traffic to the .com domain in the future?
+Iconomi owns both the .net and .com domain. Often times larger companies will tend to use the .com domain as it's considered slightly more reputable (at least in the USA). What was/is the reasoning for using the .net domain and is there any consideration to forward traffic to the .com domain in the future?
 *Asked by @stephen*
 
 > The "iconomi.com" domain was taken at the time of launch but has since been acquired, and defaulting to the .com domain is an option we're considering for the future.
@@ -134,7 +135,7 @@ Would Iconomi ever implement dividends for ICN holders in future when there are 
 Last year, in an interview, I believe it was the ceo Tim who said that iconomi was getting ready for ramping up to 200 employees. Is iconomi still planning to have around that number of employees this year? What departments are expected to see the biggest growth in number of employees?
 *Asked by @stephen*
 
-> We are continuing to onboard new employees and definitely want to see our team grow to a three-digit number in the future, but we don’t have a specific number of employees in mind. The biggest growth has been and will continue to be in the development department, and we also expect the marketing department to grow significantly.
+> We are continuing to onboard new employees and definitely want to see our team grow to a three-digit number in the future, but we don't have a specific number of employees in mind. The biggest growth has been and will continue to be in the development department, and we also expect the marketing department to grow significantly.
 *Answered June 19th 2018*
 
 # Q20
@@ -149,7 +150,7 @@ Does iconomi plan to have their api ready for trading by end of q3?
 This was announced in the March AMA. Is it still a goal that will be hit in Q2?
 *Asked by @mons*
 
-> Automated rebalancing depends on the upgrade of our trading engine, which has been slightly delayed. We’ll provide an update on the trading engine in our next quarterly development report, which will be released on Thursday, June 21. Because of this delay, automated rebalancing will also be delayed by approximately one month.
+> Automated rebalancing depends on the upgrade of our trading engine, which has been slightly delayed. We'll provide an update on the trading engine in our next quarterly development report, which will be released on Thursday, June 21. Because of this delay, automated rebalancing will also be delayed by approximately one month.
 *Answered June 19th 2018*
 
 # Q22
@@ -163,7 +164,7 @@ As Iconomi conclude their 10 assets in 10 days campaign, they announced NEO as t
 Are there questions you are surprised that they haven't been asked yet?
 *Asked by @mons*
 
-> We really like questions about the platform and our service, or just random questions like what we eat for breakfast 🙂 We can get a bit more creative with questions like that. We take all our communication channels very seriously and strive to have a professional approach when communicating with our supporters, but we are a company built by a younger generation and we like to have fun too.
+> We really like questions about the platform and our service, or just random questions like what we eat for breakfast :) We can get a bit more creative with questions like that. We take all our communication channels very seriously and strive to have a professional approach when communicating with our supporters, but we are a company built by a younger generation and we like to have fun too.
 *Answered June 19th 2018*
 
 # Q24
