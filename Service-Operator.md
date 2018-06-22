@@ -45,3 +45,4 @@ relationship with both the crypto and investment communities, Cashila will under
 
 > ICN ownership entitles its possessor to participate in ICONOMI platform related voting. One of the most important voting issues will be the selection of service operators. ICN holders are free to vote on a service operator at any time after the ICONOMI platform has been launched, but not before a 24-month moratorium has passed.
 
+source: https://coss.io/documents/white-papers/iconomi.pdf
