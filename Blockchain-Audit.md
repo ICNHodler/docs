@@ -2,7 +2,7 @@
 
 ICONOMI have established a Blockchain Audit protocol to demonstrate that they as a company are solvent, and that all company and user holdings are correctly reported. 
 
-> ICONOMI’s first blockchain audit represents one of the most important milestones so far, another bridge we have built between the old and the new economy, and another step we have made toward transparency and trust. 
+> ICONOMI's first blockchain audit represents one of the most important milestones so far, another bridge we have built between the old and the new economy, and another step we have made toward transparency and trust. 
 
 [Tim M. Zagar, CEO of ICONOMI](https://medium.com/iconominet/setting-new-standards-for-the-blockchain-industry-iconomis-digital-assets-verified-by-deloitte-64af063fecf8)
 
