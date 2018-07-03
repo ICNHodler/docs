@@ -227,3 +227,30 @@ Will Iconomi pursue getting a broker-dealer license (B-D), an alternative tradin
 
 > As we see the industry moving more and more toward regulation, especially exchanges, we know that the fully regulated players in this field will be the ones who will take the largest market share in the future. ICONOMI is also part of this movement, and we are working hard at having the platform regulated as a whole. The current focus is on the EU, where good progress has been made, though it is too early to disclose more. Achieving market penetration in the USA is not part of our short-term plans, though we fully understand the importance of this market and it is definitely part of our roadmap for the future.
 *Answered June 19th 2018*
+
+# Q31
+Starting July 1, 2018, DAA management fees will be collected and converted to ICN on a daily basis. Will CCP profits also be converted to ICN on a daily basis in the same quarter they're realised in or will things remain as they are at present (where CCP profits in any given quarter are used for buybacks during the next quarter)?
+*Asked by @jesusthatsgreat*
+
+> No, CCP profits will still be calculated on a quarterly basis.
+*Answered June 29th 2018*
+
+# Q32
+As is normal in IT development there should be a moment to think what would improve the workings of the team (retrospective). Which improvements did you come up with for the past months?
+ *Asked by @martijn*
+
+> Improving internal communication is something that always leads to tangible results and something we are constantly striving to improve. However, most of our energy in this area is currently focused on streamlining our process for onboarding new dev team members so they can be productive as soon as possible.
+*Answered 29th June 2018*
+
+# Q33
+Coinbase has recently made some moves towards positioning itself well for what some experts believe is a coming security token bull run. How is iconomi positioning itself from a regulatory perspective for handling security tokens? How does the iconomi team see the crypto market unfolding in the coming months and years in regards to security tokens?
+*Asked by @stephen*
+
+> ICONOMI is working on regulating the platform, which includes the entire scope of necessary licenses and registrations, including for security tokens, such as equity tokens or similar. We are closely monitoring regulatory developments in several jurisdictions and are actively preparing to enter all markets and apply for any and all licenses as required or appropriate to operate the platform as a fully licensed activity. The crypto market will become more and more complex in the future, as regulation will apply not only to utility tokens, but also to security tokens. We firmly believe that this technology will bring a massive paradigm shift to the securities market in the form of the tokenization of securities and other assets. The individual building blocks of the platform are already future-proof in this regard.
+*Answered June 29th 2018*
+
+# Q34
+Why isn't there any mention of the ICN Token on Iconomi's Homepage? Not even on the About Us page. I believe that you owe it to your Supporters/Investors who bought the ICO that there is a clear explanation on how Iconomi was funded in the first place and the value the ICN Token represents.
+
+> We will have a separate dedicated page on ICN on our website that will combine all relevant information relating to the ICN token.
+*Answered June 29th 2018*
