@@ -10,3 +10,4 @@ source: [Official ICONOMI SCS page](https://www.iconomi.net/dashboard/#/daa/SCS)
 Description | Link 
 ---|---
 ICONOMI page | https://www.iconomi.net/dashboard/#/daa/SCS
+ICONOMI Manager Insights | https://medium.com/iconominet/daa-manager-insights-gb-global-blockchain-ag-cb53667f7149
