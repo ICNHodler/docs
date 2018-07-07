@@ -254,3 +254,33 @@ Why isn't there any mention of the ICN Token on Iconomi's Homepage? Not even on 
 
 > We will have a separate dedicated page on ICN on our website that will combine all relevant information relating to the ICN token.
 *Answered June 29th 2018*
+
+
+# Q35
+As you mentioned, the marketing department is growing and you are working with other partners on your marketing strategy. Can you explain what type of marketing actions are you planning for the upcoming quarters in order to get more user growth and expand the platform?
+*Asked by @stricken03*
+
+> We are looking for new people to join our marketing department. We just opened a new position for a marketing assistant (see our open position/jobs section), for example. In upcoming quarters, we will be more active in direct marketing with a strong focus on quality content and education. We will publish more details in the Q2 Financial Report.
+*Answered July 5th 2018*
+  
+
+# Q36
+When will Iconomi begin recognizing the value of a strong community and start taking the steps to grow one?
+*Asked by @stephen*
+
+> We understand how important a strong community is and truly appreciate the community we have so far. We have constantly adapted our channels to better serve our community and the changing environment in the blockchain industry. We will continue to do so in the future as well, and we strive to implement community requests and wishes (like opening this channel on Rocket.Chat). Together with our strong focus on building the overall ICONOMI brand, this will in the long run create an informative environment and a strong bond for our community and for newcomers to blockchain.
+*Answered July 5th 2018*
+
+# Q37
+Does iconomi understand the importance of user growth and getting AUM up on the platform? What is iconomi planning to do short and long term to grow these numbers. Who is iconomi’s target customer? On a scale from 1-10 how aggressively will iconomi be focusing on increasing user and aum numbers up in 2018?
+*Asked by @stephen*
+
+> Of course we understand the importance of user growth and growing AUM, and we are constantly working to improve these numbers. What really builds a long-term and, most importantly, loyal client base is a thorough understanding of the market’s needs. This way, you are creating a product and service that not only satisfies your customers’ needs but also contributes to the industry as a whole. We cannot reveal our full strategy and specific target group details because much of it is sensitive information in this very competitive and growing market. We can share that one of the biggest target groups with the most potential is definitely people who have not yet been introduced to blockchain and the crypto-economy, and future marketing efforts will lean in this direction accordingly.
+*Answered July 5th 2018*
+
+# Q38
+I was pretty sure you will be more aggressive in marketing once fiat gateway is here. In google trends, word "iconomi" is at zero level which means nobody googles it and nobody knows about the company. In google news, when I try to find something about iconomi then it shows me only some automatically generated reports about the price of ICN. In reddit, "iconomi" mentioned only in /r/iconomi and in threads created by the community. Moreover, your homepage does not have a single mention that it is possible to buy DAAs with EUR. It looks like your current marketing strategy ignores the end users. When your marketing strategy will stop ignoring the end users? Which conditions must be satisfied for this? Will it happen when FGW is fully automated?
+*Asked by @cherurg*
+
+> As with any digital marketing strategy, SEO is integral to driving customers to a business. We are currently revising and will be updating/adjusting our SEO campaigns in the coming months to increase awareness of ICONOMI. We don’t ignore the end users, and we use different strategies to introduce them to our platform. However, once the fiat gateway is fully automated, it will be much easier to target new users and promote the ease of use of our platform.
+*Answered July 5th 2018*
