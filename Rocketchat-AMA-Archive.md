@@ -251,6 +251,7 @@ Coinbase has recently made some moves towards positioning itself well for what s
 
 # Q34
 Why isn't there any mention of the ICN Token on Iconomi's Homepage? Not even on the About Us page. I believe that you owe it to your Supporters/Investors who bought the ICO that there is a clear explanation on how Iconomi was funded in the first place and the value the ICN Token represents.
+*Asked by @mons*
 
 > We will have a separate dedicated page on ICN on our website that will combine all relevant information relating to the ICN token.
 *Answered June 29th 2018*
@@ -284,3 +285,24 @@ I was pretty sure you will be more aggressive in marketing once fiat gateway is 
 
 > As with any digital marketing strategy, SEO is integral to driving customers to a business. We are currently revising and will be updating/adjusting our SEO campaigns in the coming months to increase awareness of ICONOMI. We don't ignore the end users, and we use different strategies to introduce them to our platform. However, once the fiat gateway is fully automated, it will be much easier to target new users and promote the ease of use of our platform.
 *Answered July 5th 2018*
+
+# Q39
+Will the new daily buyback process be either fully automated from the start or manually operated?
+*Asked by @kwosh*
+
+> While we will be checking a few things manually, the process is already nearly fully automated.
+*Answered July 13th 2018*
+
+# Q40
+Is the upcoming ability for users to purchase individual crypto assets a precursor to Iconomi possibly becoming a regulated exchange in the future? I ask because it should help Iconomi increase revenue and cut down the costs of buying crypto assets from other exchanges.
+*Asked by @harillen*
+
+> Based on recent regulatory developments, mostly in the EU, ICONOMI does see a possibility for establishing a regulated exchange under the new regulatory frameworks.
+*Answered July 13th 2018*
+
+# Q41
+Does Iconomi have a set plan or timetable for lowering the limits of the fiat gateway. If so, would it be possible for a rough approximation of the stages, or what the lowest limit will be, and roughly how long it will be before Iconomi reach this limit (even if it's just "late 2019" for example). If there is no firm plan, is Iconomi able to lower the gateway limits as and when they feel is best, or is this conditional on improvements made to the platform/backend, or external factors like your banking partner/s?
+*Asked by @RayQuin*
+
+> We plan to lower the requirements for using the fiat gateway this quarter. The minimum requirement will be very low, affordable for anyone using the ICONOMI platform.
+*Answered July 13th 2018*
