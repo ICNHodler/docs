@@ -306,3 +306,25 @@ Does Iconomi have a set plan or timetable for lowering the limits of the fiat ga
 
 > We plan to lower the requirements for using the fiat gateway this quarter. The minimum requirement will be very low, affordable for anyone using the ICONOMI platform.
 *Answered July 13th 2018*
+
+# Q42
+Does iconomi dev team follow best practices such as unit testing and e2e testing?
+*Asked by @stephen*
+
+> We always try to follow best practices, including unit and E2E testing.
+*Answered July 20th 2018*
+
+# Q43
+Soft question for you guys. How does the ICONOMI team have fun? Do you have office trips, go out for meals and how did you all celebrate milestones like the fiat gateway? a nice blogpost with pics of the team's happy smiling faces would be a nice feature as well as all the hard work.
+*Asked by @RayQuin*
+
+> We do a few things to have fun together as a company. Twice a week we have catered lunches at the office, we have group hikes, and last month we had a team picnic/kayaking trip. We set up events like this on a pretty regular basis. We don’t usually have official celebrations for milestones, but last year we had a big party for our one-year anniversary, and we’ll be having another one this year. We’ll be sure to share some pictures.
+*Answered July 20th 2018*
+
+# Q44
+Why did you only handout 20 caps for the giveaway? Having 20 caps for 50000 users is really low. I also think a cap could have maximum cost €5 which means this was a €100 marketing device = basically nothing. Why weren't there more caps being handed out?
+*Asked by @martijn*
+
+> This was our first promo contest, so we didn’t want to go overboard before gauging how much interest there would be. We will have more contests in the future and increase the number of prizes.
+*Answered July 20th 2018*
+
