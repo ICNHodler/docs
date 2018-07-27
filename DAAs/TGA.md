@@ -16,3 +16,4 @@ Manager Twitter | https://twitter.com/tactical_gains
 Manager Linkedin | https://www.linkedin.com/company/tacticalgains/
 Manager Blog | https://medium.com/tacticalgains
 Manager Contact email | hello@tacticalgains.capital
+ICONOMI Manager Insights | https://medium.com/iconominet/daa-manager-insights-tactical-gains-array-19d06d0ed8a6
