@@ -328,3 +328,24 @@ Why did you only handout 20 caps for the giveaway? Having 20 caps for 50000 user
 > This was our first promo contest, so we didn't want to go overboard before gauging how much interest there would be. We will have more contests in the future and increase the number of prizes.
 *Answered July 20th 2018*
 
+# Q45
+Which items on the 2018 roadmap does the ICONOMI team feel are most at risk for being completed in 2018?
+*Asked by @Stephen*
+
+> While we are still actively working on implementing it, the ICONOMI debit card is something that may have to wait until 2019, since it's mostly dependent on cooperation with third-party companies. We’ve also seen the problems some card-based projects have had in the past and want to be careful to avoid them.
+*Answered July 27th 2018*
+
+ 
+# Q46
+I noticed when looking through the cumulative audit report that aside from Bitcoin Gold and Bitcoin Cash held by users, Iconomi have 3500 Bitcoin Gold, and 2100 Litecoin. As far as I remember Iconomi do not support these assets in DAA’s. Does Iconomi have a plan to do anything with these assets, and also does Iconomi have a plan to deal with assets owned by DAA’s which come from chain forks in the future.
+*Asked by @RayQuin*
+
+> Bitcoin Gold is a supported fork and was attributed to users and DAAs. Any amounts left have either not been sold off yet or were withdrawn from the platform. Bitcoin Gold cannot be included in DAAs. You can find more information about how we handle hard forks in our statement on the bitcoin gold hard fork: [Official Statement.](https://medium.com/iconominet/official-statement-on-the-bitcoin-gold-hard-fork-372ebf98913c) 
+*Answered July 27th 2018*
+
+# Q47
+Is there transparency over the ICONOMI team's own ICN holdings? Are we able to see sales/balances?
+*Asked by @AdioFrog*
+
+> No, for privacy and security reasons, team members’ ICN holdings will not be disclosed.
+*Answered July 27th 2018*
