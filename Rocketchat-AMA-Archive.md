@@ -349,3 +349,39 @@ Is there transparency over the ICONOMI team's own ICN holdings? Are we able to s
 
 > No, for privacy and security reasons, team members’ ICN holdings will not be disclosed.
 *Answered July 27th 2018*
+
+
+# Q48
+When depositing Euro to iconomi platform those € are converted to eth or btc. Why can't you hold fiat on platform? How is it different than Bitstamp?
+*Asked by @sm00kew*
+
+> The fiat gateway is still in the first phase of implementation. As development progresses, this will change, and users will be able to hold euros on the platform.
+*Answered August 3rd 2018*
+
+# Q49 
+When will details on the amount and size of fiat gateway deposits be published? Why was this not included in the quarterly report? 
+*Asked by @UncleJun*
+
+> We will not be publishing details on the deposit and withdrawal sizes in the quarterly reports or elsewhere, as this information is confidential in order to protect users of the fiat gateway, as per the OTC agreement.
+*Answered August 3rd 2018*
+
+# Q50
+Is iconomi concerned at the anemic 4% user growth, and what are they doing in this quarter to increase user growth and aum?
+*Asked by @stephen*
+
+> User growth reflects the current overall situation in the crypto market. The size of the user base will accelerate when market conditions improve and via two routes: increased marketing efforts and platform upgrades that will make the platform more attractive to the general public.
+*Answered August 3rd 2018*
+
+# Q51
+How do you feel about doing an audit by independent big four firm on ICONOMI's revenues and expenses? We, ICONOMI's owners, have currently no way of telling if the information published in the quarterly financial reports is true and accurate.
+*Asked by @elly*
+
+> This is something we might do in the future. It's also worth noting that while the primary focus of April's proof of solvency was to prove our digital asset holdings, ICONOMI's fiat holdings with banks were also verified.
+*Answered August 3rd 2018*
+
+# Q52
+Would you comment on IIP4: https://github.com/ICNHodler/IIPs/blob/master/IIPS/iip-4.md ; possibly by giving direction on how to further develop the proposal so that iconomi might accept it in the future? 
+*Asked by @stephen*
+
+> A supervisory board like the one described in IIP4 is something we might consider in the future but is not currently a priority.
+*Answered August 3rd 2018*
