@@ -385,3 +385,27 @@ Would you comment on IIP4: https://github.com/ICNHodler/IIPs/blob/master/IIPS/ii
 
 > A supervisory board like the one described in IIP4 is something we might consider in the future but is not currently a priority.
 *Answered August 3rd 2018*
+
+# Q53
+When discussing ICONOMI's ICN token buyback plan last year, Tim stated the buybacks would be carried out in accordance with the following rule: "ICN tokens will be repurchased at a price that does not exceed the highest independent bid or the last quoted transaction price. This should not inflate the market price and rather serves as a price support. Purchase volume should never reach more than 20% of total ICN volume traded in the last 24 hours." 
+Is this rule still being adhered to with the implementation of daily buybacks? Does ICONOMI have a procedure for if this rule can't be followed?
+*Asked by @RayQuin*
+
+> ICN token buybacks still follow these rules, however they are open to be changed in the future if we are unable to buy a sufficient amount of tokens during a quarter.
+*Answered August 10th 2018*
+
+# Q54
+Why haven't the problems concerning Rocket.Chat been fixed? The chat has often been unusable because it's having performance issues (as it seems). Resources are extremely easy to add in cloud services and it should be a five minute job for the sysadmin.
+*Asked by @vesqm*
+
+> We are not hosting Rocket.Chat ourselves but are using a cloud service for it. We have been in discussions with them regarding the performance problems but cannot give any timelines on improvements since it is not our system.
+*Answered August 10th 2018*
+
+# Q55
+The last update was that the auto rebalancing feature for daa managers was already done with qa and was just pending the updated trading engine before it could get released. It was also communicated that the trading engine was pushed by a month from late June to late July. I understand that software and deadlines don’t always mesh for most any software company. However, since late July has passed and it’s now August, can we get an updated expected delivery date for these features? Do we think August, do we think q3; do we think q4?
+*Asked by @stephen*
+
+
+> More information regarding the trading engine will be provided next week.
+ stephen August 9, 2018 11:10 PM
+*Answered August 10th 2018*
