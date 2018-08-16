@@ -337,7 +337,7 @@ Which items on the 2018 roadmap does the ICONOMI team feel are most at risk for 
 
  
 # Q46
-I noticed when looking through the cumulative audit report that aside from Bitcoin Gold and Bitcoin Cash held by users, Iconomi have 3500 Bitcoin Gold, and 2100 Litecoin. As far as I remember Iconomi do not support these assets in DAA’s. Does Iconomi have a plan to do anything with these assets, and also does Iconomi have a plan to deal with assets owned by DAA’s which come from chain forks in the future.
+I noticed when looking through the cumulative audit report that aside from Bitcoin Gold and Bitcoin Cash held by users, Iconomi have 3500 Bitcoin Gold, and 2100 Litecoin. As far as I remember Iconomi do not support these assets in DAA's. Does Iconomi have a plan to do anything with these assets, and also does Iconomi have a plan to deal with assets owned by DAA's which come from chain forks in the future.
 *Asked by @RayQuin*
 
 > Bitcoin Gold is a supported fork and was attributed to users and DAAs. Any amounts left have either not been sold off yet or were withdrawn from the platform. Bitcoin Gold cannot be included in DAAs. You can find more information about how we handle hard forks in our statement on the bitcoin gold hard fork: [Official Statement.](https://medium.com/iconominet/official-statement-on-the-bitcoin-gold-hard-fork-372ebf98913c) 
@@ -347,7 +347,7 @@ I noticed when looking through the cumulative audit report that aside from Bitco
 Is there transparency over the ICONOMI team's own ICN holdings? Are we able to see sales/balances?
 *Asked by @AdioFrog*
 
-> No, for privacy and security reasons, team members’ ICN holdings will not be disclosed.
+> No, for privacy and security reasons, team members' ICN holdings will not be disclosed.
 *Answered July 27th 2018*
 
 
@@ -402,9 +402,8 @@ Why haven't the problems concerning Rocket.Chat been fixed? The chat has often b
 *Answered August 10th 2018*
 
 # Q55
-The last update was that the auto rebalancing feature for daa managers was already done with qa and was just pending the updated trading engine before it could get released. It was also communicated that the trading engine was pushed by a month from late June to late July. I understand that software and deadlines don’t always mesh for most any software company. However, since late July has passed and it’s now August, can we get an updated expected delivery date for these features? Do we think August, do we think q3; do we think q4?
+The last update was that the auto rebalancing feature for daa managers was already done with qa and was just pending the updated trading engine before it could get released. It was also communicated that the trading engine was pushed by a month from late June to late July. I understand that software and deadlines don't always mesh for most any software company. However, since late July has passed and it's now August, can we get an updated expected delivery date for these features? Do we think August, do we think q3; do we think q4?
 *Asked by @stephen*
-
 
 > More information regarding the trading engine will be provided next week.
  stephen August 9, 2018 11:10 PM
