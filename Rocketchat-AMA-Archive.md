@@ -406,5 +406,39 @@ The last update was that the auto rebalancing feature for daa managers was alrea
 *Asked by @stephen*
 
 > More information regarding the trading engine will be provided next week.
- stephen August 9, 2018 11:10 PM
 *Answered August 10th 2018*
+
+# Q56
+For several weeks now there have been top voted questions that have not been addressed. This would never have happened with the old ama style since it was always the top voted questions that were answered. How would you respond to the claim that this new AMA approach makes it easier for iconomi to skirt questions they don’t want to answer? Also could you please clarify the criteria used for choosing the AMA questions to answer since it’s not based on the number of votes a question gets?
+*Asked by @stephen*
+
+>We categorize your questions based on the appropriate departments here at ICONOMI, so each department provides the information for answers to questions relevant to their daily and long-term activities. Each member of our team has a busy schedule from day to day, sometimes also including attending events, conferences, and meetings. We try to give timely, informative answers to as many questions as possible, but schedules don’t always align favorably, which can cause delays. The main rule we follow is answering 3-5 questions per week.
+*Answered 17th August 2018*
+
+# Q57
+What is the current demographic weight of users on your platform? For example, can we have some figures like: 10% of users are from the Netherlands, 8% from slovenia, 3% from....
+*Asked by @Telefoon*
+
+>For competitive reasons, we currently consider this kind of information confidential.
+*Answered 17th August 2018*
+
+# Q58
+When are you going to add TUSD deposit and enable buying DAA with TUSD?
+*Asked by @sm00kew*
+
+>Because adding support for additional tokens for purchasing DAAs brings in additional liquidity requirements, TUSD deposits are not on our roadmap for now.
+*Answered 17th August 2018*
+
+# Q59
+Does Iconomi plan, in the future, to add social media features to the platform like comments, forums, recommendations, and/or crowd sentiment data so investors can garner insight on what are the best DAAs to fit their investment goals?
+*Asked by @harillen*
+
+>We have discussed these options, but for now we are still following the set roadmap for 2018.
+*Answered 17th August 2018*
+
+# Q60
+Will ICN higher the perecentage for the buybacks of ICN, considering you guys are sitting on a heap of BTC and ETH
+*Asked by @gnossienli*
+
+>ICONOMI does not perform buybacks with company assets, only with revenue. We do reserve the right to buy and sell ICN for treasury purposes, as disclosed in our financial reports.
+*Answered 17th August 2018*
