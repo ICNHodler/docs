@@ -1,6 +1,6 @@
 # Third Eye Array (TEA)
 TEA is a [Digital Asset Array](../Digital-Asset-Arrays.md) managed by Dan Verowski, a technology advisor and analyst who has worked as part of aeternity's core team, and is a co-founder of the European Blockchain Federation. 
-TEA currently contains 11 assets structured in a tripartite array of long, medium and short term positions, with a focus on long-term sustainability for stakeholders. Annual management fee is 3.1%.
+TEA is structured in a tripartite array of long, medium and short term positions, with a focus on long-term sustainability for stakeholders. Annual management fee is 3.1%.
 
 # DAA Strategy
 > The Third Eye Array (TEA) is for everyone who longs to leave this world a better place. Assets from projects with unsustainable ideas, malicious motivations, or relationships with institutions clamoring for central control have no place in our array.
@@ -17,3 +17,4 @@ Description | Link
 ICONOMI page | https://www.iconomi.net/dashboard/#/daa/TEA
 Manager Twitter | https://twitter.com/DanMercurius
 Manager linkedin | https://www.linkedin.com/in/dan-verowski-89120511/
+ICONOMI DAA Manager Insights | https://medium.com/iconominet/daa-manager-insights-third-eye-array-part-1-e79f59c2600
