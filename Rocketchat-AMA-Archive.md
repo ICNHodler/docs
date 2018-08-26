@@ -442,3 +442,31 @@ Will ICN higher the perecentage for the buybacks of ICN, considering you guys ar
 
 >ICONOMI does not perform buybacks with company assets, only with revenue. We do reserve the right to buy and sell ICN for treasury purposes, as disclosed in our financial reports.
 *Answered 17th August 2018*
+
+26 aug
+# Q61
+A lack of new users is often seen as the result of the current bear market. Then again I read an article like this https://www.newsbtc.com/2018/08/15/coinbase-continues-to-add-50000-users-a-day-during-bear-market/ . What do you think is the reason we only get ~29 users per day in Q2? And what will be done about it?
+*Asked by @martijn*
+
+> In the current market and its accompanying consumer behavior, we are observing several different target groups (early adopters, etc.), the biggest being users new to cryptocurrencies. These users’ first investing experience usually starts with buying BTC, sometimes also ETH. Currently, the easiest way to buy BTC or ETH is by transferring fiat to an exchange. Once these users become more familiar with cryptocurrencies, they start looking for new opportunities and products, like Digital Asset Arrays. We recognized this early on, and for this reason one of our main priorities and a primary focus on our 2018 roadmap is the fiat gateway. We already accomplished the first step in May (https://medium.com/iconominet/iconomi-fiat-gateway-eb4fa8be0d09). We believe this will have a significant impact on the number of new users.
+*Answered 26th August 2018*
+
+
+# Q62
+It appears that at least one daa manager is a USA citizen. Can any USA citizen be be a daa manager?
+*Asked by @stephen*
+
+> We currently do not offer any of our services to US citizens or residents. This is something we hope will change in the future. You can apply if you have dual citizenship (which you will need to verify with a legal personal ID document) or if you have a corporate company, allowing you to utilize other residencies. Any DAA manager appearing to be a US citizen has a specific setup in place that enables us to offer them such a position, but it remains the case that our services are not offered to US citizens and residents, nor is US capital involved in such DAAs.
+*Answered 26th August 2018*
+
+
+# Q63
+An article about the Deloitte audit published by coinreport mentioned that Iconomi’s PR company is Preobrat. Doing some research, it shows that Preobrat has 1 employee on linkedIn. The Preobrat website is down and the owner of preobrat (Petra) is also the PR Advisor at Iconomi. The only description of what Preobrat does is found on Petra’s description of the work history. Corporate communications, media relations, crises communications, issue management, content creation and branding are mentioned. Each of these are important for a company to have a handle on.
+
+Is there a focus on page speed (Iconomi is yellow on google page speed analysis), competitive keyword research, quality backlinks to iconomi.net, organic SEO and is anyone in the office familiar with paid online marketing campaigns? 
+
+Basically what I’m getting at is that the current strategy is necessary but I’m concerned if it’s enough given the fast paced technical aspects of modern marketing strategies.
+*Asked by @stephen*
+
+> Yes, as explained in more detail in our Financial Report, we will continue developing and upgrading ICONOMI’s marketing strategy and ramping up our efforts in this department. This of course includes competitive keyword research, SEO, and other technical tools. More concretely, you may have noticed we deployed an update to our landing page a couple of weeks ago, and we are also currently hiring in this area.
+*Answered 26th August 2018*
