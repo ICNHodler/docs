@@ -63,14 +63,14 @@ With the TrueUSD token added to the platform, we may see Managers more frequentl
 Also, is the fee paid for directly by the DAA managers themselves, or is it taken from the portfolio's assets?
 *Asked by @RayQuin*
 
-> This fee is based on the percentage over 10% and is taken from the portfolio’s assets.
+> This fee is based on the percentage over 10% and is taken from the portfolio's assets.
 *Answered June 19th 2018*
 
 # Q10
 Are there plans to remove or increase the max amount users can buy/sell on the platform per day? It seems weird that the fiat gateway will start by only letting users deposit a minimum of 50k, but they can only buy 10k of DAAs a day?
 *Asked by @stephen*
 
-> Yes, we plan to continue increasing these limits, but we can’t provide any exact dates at this time.
+> Yes, we plan to continue increasing these limits, but we can't provide any exact dates at this time.
 *Answered June 19th 2018*
 
 # Q11
@@ -273,7 +273,7 @@ When will Iconomi begin recognizing the value of a strong community and start ta
 *Answered July 5th 2018*
 
 # Q37
-Does iconomi understand the importance of user growth and getting AUM up on the platform? What is iconomi planning to do short and long term to grow these numbers. Who is iconomi’s target customer? On a scale from 1-10 how aggressively will iconomi be focusing on increasing user and aum numbers up in 2018?
+Does iconomi understand the importance of user growth and getting AUM up on the platform? What is iconomi planning to do short and long term to grow these numbers. Who is iconomi's target customer? On a scale from 1-10 how aggressively will iconomi be focusing on increasing user and aum numbers up in 2018?
 *Asked by @stephen*
 
 > Of course we understand the importance of user growth and growing AUM, and we are constantly working to improve these numbers. What really builds a long-term and, most importantly, loyal client base is a thorough understanding of the market's needs. This way, you are creating a product and service that not only satisfies your customers' needs but also contributes to the industry as a whole. We cannot reveal our full strategy and specific target group details because much of it is sensitive information in this very competitive and growing market. We can share that one of the biggest target groups with the most potential is definitely people who have not yet been introduced to blockchain and the crypto-economy, and future marketing efforts will lean in this direction accordingly.
@@ -332,7 +332,7 @@ Why did you only handout 20 caps for the giveaway? Having 20 caps for 50000 user
 Which items on the 2018 roadmap does the ICONOMI team feel are most at risk for being completed in 2018?
 *Asked by @Stephen*
 
-> While we are still actively working on implementing it, the ICONOMI debit card is something that may have to wait until 2019, since it's mostly dependent on cooperation with third-party companies. We’ve also seen the problems some card-based projects have had in the past and want to be careful to avoid them.
+> While we are still actively working on implementing it, the ICONOMI debit card is something that may have to wait until 2019, since it's mostly dependent on cooperation with third-party companies. We've also seen the problems some card-based projects have had in the past and want to be careful to avoid them.
 *Answered July 27th 2018*
 
  
@@ -409,10 +409,10 @@ The last update was that the auto rebalancing feature for daa managers was alrea
 *Answered August 10th 2018*
 
 # Q56
-For several weeks now there have been top voted questions that have not been addressed. This would never have happened with the old ama style since it was always the top voted questions that were answered. How would you respond to the claim that this new AMA approach makes it easier for iconomi to skirt questions they don’t want to answer? Also could you please clarify the criteria used for choosing the AMA questions to answer since it’s not based on the number of votes a question gets?
+For several weeks now there have been top voted questions that have not been addressed. This would never have happened with the old ama style since it was always the top voted questions that were answered. How would you respond to the claim that this new AMA approach makes it easier for iconomi to skirt questions they don't want to answer? Also could you please clarify the criteria used for choosing the AMA questions to answer since it's not based on the number of votes a question gets?
 *Asked by @stephen*
 
->We categorize your questions based on the appropriate departments here at ICONOMI, so each department provides the information for answers to questions relevant to their daily and long-term activities. Each member of our team has a busy schedule from day to day, sometimes also including attending events, conferences, and meetings. We try to give timely, informative answers to as many questions as possible, but schedules don’t always align favorably, which can cause delays. The main rule we follow is answering 3-5 questions per week.
+>We categorize your questions based on the appropriate departments here at ICONOMI, so each department provides the information for answers to questions relevant to their daily and long-term activities. Each member of our team has a busy schedule from day to day, sometimes also including attending events, conferences, and meetings. We try to give timely, informative answers to as many questions as possible, but schedules don't always align favorably, which can cause delays. The main rule we follow is answering 3-5 questions per week.
 *Answered 17th August 2018*
 
 # Q57
@@ -448,7 +448,7 @@ Will ICN higher the perecentage for the buybacks of ICN, considering you guys ar
 A lack of new users is often seen as the result of the current bear market. Then again I read an article like this https://www.newsbtc.com/2018/08/15/coinbase-continues-to-add-50000-users-a-day-during-bear-market/ . What do you think is the reason we only get ~29 users per day in Q2? And what will be done about it?
 *Asked by @martijn*
 
-> In the current market and its accompanying consumer behavior, we are observing several different target groups (early adopters, etc.), the biggest being users new to cryptocurrencies. These users’ first investing experience usually starts with buying BTC, sometimes also ETH. Currently, the easiest way to buy BTC or ETH is by transferring fiat to an exchange. Once these users become more familiar with cryptocurrencies, they start looking for new opportunities and products, like Digital Asset Arrays. We recognized this early on, and for this reason one of our main priorities and a primary focus on our 2018 roadmap is the fiat gateway. We already accomplished the first step in May (https://medium.com/iconominet/iconomi-fiat-gateway-eb4fa8be0d09). We believe this will have a significant impact on the number of new users.
+> In the current market and its accompanying consumer behavior, we are observing several different target groups (early adopters, etc.), the biggest being users new to cryptocurrencies. These users' first investing experience usually starts with buying BTC, sometimes also ETH. Currently, the easiest way to buy BTC or ETH is by transferring fiat to an exchange. Once these users become more familiar with cryptocurrencies, they start looking for new opportunities and products, like Digital Asset Arrays. We recognized this early on, and for this reason one of our main priorities and a primary focus on our 2018 roadmap is the fiat gateway. We already accomplished the first step in May (https://medium.com/iconominet/iconomi-fiat-gateway-eb4fa8be0d09). We believe this will have a significant impact on the number of new users.
 *Answered 26th August 2018*
 
 
@@ -461,12 +461,12 @@ It appears that at least one daa manager is a USA citizen. Can any USA citizen b
 
 
 # Q63
-An article about the Deloitte audit published by coinreport mentioned that Iconomi’s PR company is Preobrat. Doing some research, it shows that Preobrat has 1 employee on linkedIn. The Preobrat website is down and the owner of preobrat (Petra) is also the PR Advisor at Iconomi. The only description of what Preobrat does is found on Petra’s description of the work history. Corporate communications, media relations, crises communications, issue management, content creation and branding are mentioned. Each of these are important for a company to have a handle on.
+An article about the Deloitte audit published by coinreport mentioned that Iconomi's PR company is Preobrat. Doing some research, it shows that Preobrat has 1 employee on linkedIn. The Preobrat website is down and the owner of preobrat (Petra) is also the PR Advisor at Iconomi. The only description of what Preobrat does is found on Petra's description of the work history. Corporate communications, media relations, crises communications, issue management, content creation and branding are mentioned. Each of these are important for a company to have a handle on.
 
 Is there a focus on page speed (Iconomi is yellow on google page speed analysis), competitive keyword research, quality backlinks to iconomi.net, organic SEO and is anyone in the office familiar with paid online marketing campaigns? 
 
-Basically what I’m getting at is that the current strategy is necessary but I’m concerned if it’s enough given the fast paced technical aspects of modern marketing strategies.
+Basically what I'm getting at is that the current strategy is necessary but I'm concerned if it's enough given the fast paced technical aspects of modern marketing strategies.
 *Asked by @stephen*
 
-> Yes, as explained in more detail in our Financial Report, we will continue developing and upgrading ICONOMI’s marketing strategy and ramping up our efforts in this department. This of course includes competitive keyword research, SEO, and other technical tools. More concretely, you may have noticed we deployed an update to our landing page a couple of weeks ago, and we are also currently hiring in this area.
+> Yes, as explained in more detail in our Financial Report, we will continue developing and upgrading ICONOMI's marketing strategy and ramping up our efforts in this department. This of course includes competitive keyword research, SEO, and other technical tools. More concretely, you may have noticed we deployed an update to our landing page a couple of weeks ago, and we are also currently hiring in this area.
 *Answered 26th August 2018*
