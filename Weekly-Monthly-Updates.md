@@ -2,7 +2,7 @@
 
 Year | Month | Monthly Update | Biweekly Updates*
 ---|---|---|--- 
-2018| Aug | Expected end Aug | [Aug 3](https://medium.com/iconominet/the-iconomi-digest-5349d2c46ccb), [Aug 17](https://medium.com/iconominet/the-iconomi-digest-fb37a182560f), [Aug 31](https://medium.com/iconominet/the-iconomi-digest-ad12ed81a3b4)
+2018| Aug | Expected early Sep | [Aug 3](https://medium.com/iconominet/the-iconomi-digest-5349d2c46ccb), [Aug 17](https://medium.com/iconominet/the-iconomi-digest-fb37a182560f), [Aug 31](https://medium.com/iconominet/the-iconomi-digest-ad12ed81a3b4)
 2018 | Jul | [Link](https://medium.com/iconominet/monthly-update-vii-b21c83d0226e) | [Jul 13](https://medium.com/iconominet/the-iconomi-digest-3185b1eb868)
 2018 | Jun | combined with July | [Jun 1](https://medium.com/iconominet/iconomi-weekly-update-bea9bc95c954), [Jun 8](https://medium.com/iconominet/iconomi-weekly-update-6d3d8380f961), [Jun 15](https://medium.com/iconominet/weekly-update-4949b120f441), [Jun 22](https://medium.com/iconominet/iconomi-weekly-update-a4129802faea), [Jun 29](https://medium.com/iconominet/iconomi-weekly-update-43d126ae3c6d)
 2018 | May | [Link](https://medium.com/iconominet/2018-monthly-update-v-9f3e8a4ad3d8) | [May 4](https://medium.com/iconominet/iconomi-weekly-update-dd260ef06d5b), [May 11](https://medium.com/iconominet/iconomi-weekly-update-35db8cdabc8d), [May 18](https://medium.com/iconominet/iconomi-weekly-update-9a9e9a9b0ebc), [May 25](https://medium.com/iconominet/iconomi-weekly-update-9da62d09e037)
