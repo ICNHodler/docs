@@ -470,3 +470,29 @@ Basically what I'm getting at is that the current strategy is necessary but I'm 
 
 > Yes, as explained in more detail in our Financial Report, we will continue developing and upgrading ICONOMI's marketing strategy and ramping up our efforts in this department. This of course includes competitive keyword research, SEO, and other technical tools. More concretely, you may have noticed we deployed an update to our landing page a couple of weeks ago, and we are also currently hiring in this area.
 *Answered 26th August 2018*
+
+# Q64
+This address previously sent the icn to be burned for a quarter to the icn burn contract: https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0x0445bdff368ab12898175ab334a48917177cda4a . Is this an iconomi managed account and if so, why has it recently sent almost 250k icn to the kraken exchange?
+*Asked by @stephen*
+
+> We don’t comment on individual movements of assets from our addresses or any others. Any portfolio changes are disclosed in quarterly reports, but it is worth pointing out that there are movements of assets performed solely for platform liquidity reasons. These are not disclosed in reports because they do not affect ICONOMI holdings.
+*Answered 31st August 2018*
+
+# Q65
+A retrospective on Q2 given in the Monthly update from July noted that 2/3rds of DAAs outperformed Bitcoin. This is a great stat that really shows the value of ICONOMI portfolios as investment vehicles. Having asked the community members in rocket.chat, we feel that ICONOMI's portfolio performance reporting could be strengthened to improve user experience and help foster engagement with the benefits the ICONOMI platform has to offer. 
+
+As such, would it be possible for the team to respond to the contents of IIP2: https://icnhodler.com/IIPS/iip-2, a wish list for portfolio performance reporting. Are any or all of these features planned as part of the upgrade in user stats in the 2018 roadmap?
+
+If any are not, would the team consider including them in the 2019 roadmap?
+*Asked by @RayQuin*
+
+> First, we admire the IIP initiative and we do read them. It’s certainly possible that we will adapt features based on this feedback.
+Regarding IIP2, many of the suggestions are already on our roadmap, and some will be released this year.
+*Answered 31st August 2018*
+
+# Q66
+Do you care about ICN price?
+*Asked by @kwosh*
+
+> Yes, of course.
+*Answered 31st August 2018*
