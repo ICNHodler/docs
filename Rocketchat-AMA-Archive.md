@@ -508,12 +508,12 @@ Is the Book-Value considered with or with out the parity bug, which the treasury
 After massive correction in the crypto market do you still see ICN platform reaching 1 Billion $ AUM until end of 2018? If yes, can you back up yor answer how are you planning to reach this?
 *Asked by @investmox*
 
-> The market correction is having an impact on AUM, and looking at the current state of the market, $1 billion by the end of 2018 would be a difficult number to achieve. However, we have been hedging into fiat throughout the downturn, which gives us time to develop an even better strategy for when the market recovers — which, of course, we strongly believe will happen.
+> The market correction is having an impact on AUM, and looking at the current state of the market, $1 billion by the end of 2018 would be a difficult number to achieve. However, we have been hedging into fiat throughout the downturn, which gives us time to develop an even better strategy for when the market recovers - which, of course, we strongly believe will happen.
 *Answered 7th September 2018*
 
 # Q69
 Will Iconomi, in the future, ever implement decentralized features into the Iconomi platform so that it could make it a hybrid platform which leverages the security and reliability benefits found in decentralized applications?
 *Asked by @harillen*
 
-> Implementing decentralized features is an option for the future that could bring benefits for certain parts of the platform. The state of blockchain isn’t quite there yet for us to build the kind of decentralized features we would want for our users.
+> Implementing decentralized features is an option for the future that could bring benefits for certain parts of the platform. The state of blockchain isn't quite there yet for us to build the kind of decentralized features we would want for our users.
 *Answered 7th September 2018*
