@@ -475,7 +475,7 @@ Basically what I'm getting at is that the current strategy is necessary but I'm 
 This address previously sent the icn to be burned for a quarter to the icn burn contract: https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0x0445bdff368ab12898175ab334a48917177cda4a . Is this an iconomi managed account and if so, why has it recently sent almost 250k icn to the kraken exchange?
 *Asked by @stephen*
 
-> We don’t comment on individual movements of assets from our addresses or any others. Any portfolio changes are disclosed in quarterly reports, but it is worth pointing out that there are movements of assets performed solely for platform liquidity reasons. These are not disclosed in reports because they do not affect ICONOMI holdings.
+> We don't comment on individual movements of assets from our addresses or any others. Any portfolio changes are disclosed in quarterly reports, but it is worth pointing out that there are movements of assets performed solely for platform liquidity reasons. These are not disclosed in reports because they do not affect ICONOMI holdings.
 *Answered 31st August 2018*
 
 # Q65
@@ -486,7 +486,7 @@ As such, would it be possible for the team to respond to the contents of IIP2: h
 If any are not, would the team consider including them in the 2019 roadmap?
 *Asked by @RayQuin*
 
-> First, we admire the IIP initiative and we do read them. It’s certainly possible that we will adapt features based on this feedback.
+> First, we admire the IIP initiative and we do read them. It's certainly possible that we will adapt features based on this feedback.
 Regarding IIP2, many of the suggestions are already on our roadmap, and some will be released this year.
 *Answered 31st August 2018*
 
