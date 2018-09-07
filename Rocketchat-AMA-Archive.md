@@ -496,3 +496,24 @@ Do you care about ICN price?
 
 > Yes, of course.
 *Answered 31st August 2018*
+
+# Q67
+Is the Book-Value considered with or with out the parity bug, which the treasury is basing it's buybacks?
+*Asked by @gnossienli*
+
+> For now, book value still includes the locked ETH, as can be seen in our quarterly financial reports: https://medium.com/iconominet/iconomi-financial-report-q2-2018-c6a2322794e1
+*Answered 7th September 2018*
+
+# Q68
+After massive correction in the crypto market do you still see ICN platform reaching 1 Billion $ AUM until end of 2018? If yes, can you back up yor answer how are you planning to reach this?
+*Asked by @investmox*
+
+> The market correction is having an impact on AUM, and looking at the current state of the market, $1 billion by the end of 2018 would be a difficult number to achieve. However, we have been hedging into fiat throughout the downturn, which gives us time to develop an even better strategy for when the market recovers — which, of course, we strongly believe will happen.
+*Answered 7th September 2018*
+
+# Q69
+Will Iconomi, in the future, ever implement decentralized features into the Iconomi platform so that it could make it a hybrid platform which leverages the security and reliability benefits found in decentralized applications?
+*Asked by @harillen*
+
+> Implementing decentralized features is an option for the future that could bring benefits for certain parts of the platform. The state of blockchain isn’t quite there yet for us to build the kind of decentralized features we would want for our users.
+*Answered 7th September 2018*
