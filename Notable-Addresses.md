@@ -8,6 +8,7 @@ ICONOMI | Burn Address | [0x0006157838d5a6b33ab66588a6a693a57c869999](https://et
 ICONOMI | CCP ERC20 funds | [0x31fc2dbe295a8570b69c09c5aaec33459fc1a1b3](https://etherscan.io/address/0x31fc2dbe295a8570b69c09c5aaec33459fc1a1b3#tokentxns)
 ICONOMI | ICN held on platform | [0x2a068aac312acc5f4996be9d1ab810a8b6223c76](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0x2a068aac312acc5f4996be9d1ab810a8b6223c76)
 ICONOMI | Multisig (frozen due to parity bug) | [0x376c3e5547c68bc26240d8dcc6729fff665a4448](https://etherscan.io/address/0x376c3e5547c68bc26240d8dcc6729fff665a4448)
+ICONOMI | Multisig 2 | [0x154af3e01ec56bc55fd585622e33e3dfb8a248d8](https://etherscan.io/address/0x154af3e01ec56bc55fd585622e33e3dfb8a248d8)
 ICONOMI | Lisk held by Iconomi | [9094944264474023843L](https://explorer.lisk.io/address/9094944264474023843L)
 Kraken | ICN on exchange | [0xcf40d0d2b44f2b66e07cace1372ca42b73cf21a3](https://etherscan.io/token/ICONOMI?a=0xcf40d0d2b44f2b66e07cace1372ca42b73cf21a3)
 Binance | ICN on exchange | [0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be)
