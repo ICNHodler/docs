@@ -108,7 +108,7 @@ Someone recently noted that the BMC DAA seems to be inactive (no communications 
 > We have procedures in place for closing a DAA if necessary. Essentially, if a DAA is closed, ICONOMI will sell off its assets and distribute them to the DAA holders. We will explain the procedure for closing a DAA in a future blog post.
 *Answered June 19th 2018*
 
-# Q16 (follow-on from Q15)
+# Q16
 If a DAA is not tokenized, the process should be simple, the underlying assets are sold and the users get their investment back. in what? Would we have a choice? (Fiat, stable coin, BTC, ETH)
 But I'm curious to know the process if it's a tokenized DAA. For how long can ICONOMI convert tokens from a DAA that no longer exists?
 *Asked by @CRYPTODEAL*
