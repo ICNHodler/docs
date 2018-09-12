@@ -10,7 +10,7 @@ ICONOMI | ICN held on platform | [0x2a068aac312acc5f4996be9d1ab810a8b6223c76](ht
 ICONOMI | Multisig (frozen due to parity bug) | [0x376c3e5547c68bc26240d8dcc6729fff665a4448](https://etherscan.io/address/0x376c3e5547c68bc26240d8dcc6729fff665a4448)
 ICONOMI | Multisig 2 | [0x154af3e01ec56bc55fd585622e33e3dfb8a248d8](https://etherscan.io/address/0x154af3e01ec56bc55fd585622e33e3dfb8a248d8)
 ICONOMI | Lisk held by Iconomi | [9094944264474023843L](https://explorer.lisk.io/address/9094944264474023843L)
-Kraken | ICN on exchange | [0xcf40d0d2b44f2b66e07cace1372ca42b73cf21a3](https://etherscan.io/token/ICONOMI?a=0xcf40d0d2b44f2b66e07cace1372ca42b73cf21a3)
+Kraken | ICN on exchange | [0xcf40d0d2b44f2b66e07cace1372ca42b73cf21a3](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0xcf40d0d2b44f2b66e07cace1372ca42b73cf21a3)
 Binance | ICN on exchange | [0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be)
 Binance (wallet 2) | ICN on exchange | [0xd551234ae421e3bcba99a0da6d736074f22192ff](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0xd551234ae421e3bcba99a0da6d736074f22192ff)
 Binance (wallet 3) | ICN on exchange | [0x564286362092d8e7936f0549571a803b203aaced](https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698?a=0x564286362092d8e7936f0549571a803b203aaced)
