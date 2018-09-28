@@ -53,13 +53,13 @@ Is it possible that new security tokenss could pay out dividends or will there s
 > *Answered 28th Sep 2018*
 
 Will there be an official document on the ownership of the company's shares?
-*Asked by bumerang007*
+*Asked by @bumerang007*
 
 > Yes, there will.
 > *Answered 28th Sep 2018*
 
 The number of ICNs specified in CCP will be distributed among ICN owners?
-*Asked by bumerang007*
+*Asked by @bumerang007*
 
 >  Pinta’s assets will be moved to the treasury and as such will still be under ICONOMI's ownership. We will be publishing more information next week.
 > *Answered 28th Sep 2018*
