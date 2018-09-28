@@ -8,42 +8,46 @@ Date | Title
 27-Sep-18 | [A New Chapter for ICONOMI: Transformation of Corporate Governance and Issuance of Equity Tokens](https://medium.com/iconominet/a-new-chapter-for-iconomi-transformation-of-corporate-governance-and-issuance-of-equity-tokens-dc603df2272b) 
 27 Sep-18 | [The Technical and Legal Side of ICONOMI’s Transformation](https://medium.com/iconominet/the-technical-and-legal-side-of-iconomis-transformation-542319b96f0f)
 
+
 # AMA Answers
+
 ## Sep 28th 2018
-Q. Main importance for ICN hodlers was buybacks... And the fees....
+
+Main importance for ICN hodlers was buybacks... And the fees....
 With this going away, how does a eICN holder benefit if ICONOMI does well and grows?
 
 > If ICONOMI performs well and grows, this should be reflected in the rising value of eICN. Profit can also be paid out to shareholders if they decide this via the General Assembly (e.g. dividends or buybacks).
 
-Q. Please hold a dedicated AMA for the incorporation with 10+ questions answered (pretty please)
+Please hold a dedicated AMA for the incorporation with 10+ questions answered (pretty please)
 
 > We will continue to release information and we will be collecting the most commonly asked questions, which will be answered in a comprehensive blog post.
 
-Q. Does today’s announcement mean that USA holders who are ineligible for tier 2 status on icn site will be forced to liquidate at .0019 eth?
+Does today’s announcement mean that USA holders who are ineligible for tier 2 status on icn site will be forced to liquidate at .0019 eth?
 
 > US ICN holders and holders from other countries that are currently unable to verify for Tier 2 are able to hold their ICN indefinitely without liquidating. We are proactively looking for a solution that will enable these ICN holders to convert their ICN to eICN. We will be opening a communication channel where we will keep these holders informed about our progress.
 
-Q. If I own 1% of ICN and choose to convert to eICN, will I then own 1% of eICN? Or will additional shares be issued?
+If I own 1% of ICN and choose to convert to eICN, will I then own 1% of eICN? Or will additional shares be issued?
 
 > Yes, ownership of 1% of ICN will represent ownership of 1% of eICN.
 
-Q. What will happen with the ICN that will be swapped against ETH?
+What will happen with the ICN that will be swapped against ETH?
 Will the eICN supposed to be equivalent to these ICN be burned, so less shares created?
 
 > 1. ICN swapped for ETH will go into the treasury and will go through the eICN conversion process.
 > 2. No, but there may be minor differences due to rounding.
 
-Q. Is it possible that new security tokenss could pay out dividends or will there still be a buyback burnout model?
+Is it possible that new security tokenss could pay out dividends or will there still be a buyback burnout model?
 
 > Both of these models are possible. The final decision on how profits will be used will be up to the General Assembly.
 
-Q. Will there be an official document on the ownership of the company's shares?
+Will there be an official document on the ownership of the company's shares?
 
 > Yes, there will.
 
-Q. The number of ICNs specified in CCP will be distributed among ICN owners?
+The number of ICNs specified in CCP will be distributed among ICN owners?
 
 >  Pinta’s assets will be moved to the treasury and as such will still be under ICONOMI's ownership. We will be publishing more information next week.
+
 
 # Reddit Comments
 
