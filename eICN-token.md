@@ -11,8 +11,6 @@ Date | Title
 
 # AMA Answers
 
-## Sep 28th 2018
-
 Main importance for ICN hodlers was buybacks... And the fees....
 With this going away, how does a eICN holder benefit if ICONOMI does well and grows?
 *Asked by @mennopp*
