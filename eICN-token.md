@@ -8,6 +8,15 @@ Date | Title
 27-Sep-2018 | [A New Chapter for ICONOMI: Transformation of Corporate Governance and Issuance of Equity Tokens](https://medium.com/iconominet/a-new-chapter-for-iconomi-transformation-of-corporate-governance-and-issuance-of-equity-tokens-dc603df2272b) 
 27-Sep-2018 | [The Technical and Legal Side of ICONOMI’s Transformation](https://medium.com/iconominet/the-technical-and-legal-side-of-iconomis-transformation-542319b96f0f)
 
+# Tweets
+
+>ICN will be converted into the eICN equity token, which most exchanges are not currently legally prepared to offer. We expect that some exchanges will choose to delist ICN. (1/2)
+
+https://twitter.com/iconominet/status/1049591245662773248 - 9th Oct 2018
+
+>As previously stated, ICONOMI will honor its commitment to buying back ICN at the rate of .0019 ETH for anyone who does not want to convert their ICN to eICN. You can read more about eICN here: https://t.co/Un2EpG3VFu (2/2)
+
+https://twitter.com/iconominet/status/1049591313161707520 - 9th Oct 2018
 
 # AMA Answers
 
