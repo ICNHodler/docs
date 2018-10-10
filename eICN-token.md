@@ -72,6 +72,68 @@ The number of ICNs specified in CCP will be distributed among ICN owners?
 >  Pinta’s assets will be moved to the treasury and as such will still be under ICONOMI's ownership. We will be publishing more information next week.
 > *Answered 28th Sep 2018*
 
+# FAQs Published by ICONOMI
+
+Will you buy ICN at .0019 even if exchanges don’t delist ICN? Which exchanges would have to delist ICN for you to buy at that floor?
+
+> Yes, the option to sell your ICN to ICONOMI at the rate of .0019 will be available even if exchanges don’t delist ICN. This option will not require verification on the ICONOMI platform.
+
+Will ICN tokens have a comparable exchange rate for eICN indefinitely?
+
+> Once established, the exchange rate between ICN and eICN will not change. However, there may be additional fees for conversion after December 31.
+
+How long before the release of eICN?
+
+> The release of eICN is targeted for Q1 2019.
+
+On which exchanges will eICN be traded?
+
+> We are researching different options, but it is too early to comment about exchanges at this time.
+
+Can you develop further on how exchanges such as Kraken/Binance will process the ICN to eICN token transition? Are you working together with them? Is it possible that this will be done automatically?
+
+> Conversion to eICN will take place on the ICONOMI platform. Full details of the process will be published by the end of the month. How exchanges handle ICN is up to their discretion.
+
+Compared to the buyback and burn system, what will change with eICN?
+
+> If ICONOMI performs well and grows, this should be reflected in the rising value of eICN. As we have mentioned before, profit can also be paid out to shareholders if they decide this via the General Assembly (e.g. dividends or buybacks).
+
+Will we be able to vote on and propose a change of strategy (for example, more resources allocated to marketing, in search of large funds such as Grayscale or others)?
+
+> Shareholders will have all the rights accorded by standard corporate governance.
+
+Are DAAs able to hold eICN? After all, you choose a DAA manager to be in charge of your crypto related investments.
+
+>For the time being, no.
+
+Is it necessary to come personally to receive shares? What documents are needed apart from the Tier 2 documents?
+
+> No, you will not be required to come personally to receive shares. More information about the documents required will be released in future. The types of documents required should not differ substantially from those required to open a bank account, for example. For those who are Tier 2 verified, we already have most of the required documents/information, which will not need to be resubmitted; only the missing documents/information will be required.
+
+Will eICN be an ERC20 token?
+
+> The final structure of the eICN token has not yet been finalized.
+
+In the Medium posts on eICN, both the terms equity token and security token are used. Do you consider these terms interchangeable?
+
+> eICN is an equity token. We use the terms interchangeably in the sense that an equity token is a particular type of security.
+
+Will it be possible to convert part of my ICN position into eICN and convert part into ETH on the ICONOMI platform?
+
+> Yes.
+
+Will the people who convert their ICN to ETH with ICONOMI get their ETH immediately or after December 31?
+
+> The exact timeline will be published together with the full details about the process.
+
+Since ICONOMI said they are looking for a solution for US/Canada holders of ICN to convert to eICN, does that mean if they hold 1% of ICN that it would equate to 1% eICN for US/Canada holders as well?
+
+> The ICN to eICN ownership ratio is the same for anyone who will be able to convert their ICN. We are actively seeking a solution for those holders who are currently not eligible. If you are an ICN holder who is unable to verify for Tier 2 on the ICONOMI platform, please contact us at eicn.support@iconomi.com
+
+I have one question: will we get dividends if we convert ICN to eICN?
+
+> As previously mentioned, profit can be paid out to shareholders if they decide this via the General Assembly (e.g. dividends or buybacks).
+
 # Reddit Comments
 
 ## Sep 27th 2018
