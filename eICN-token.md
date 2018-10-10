@@ -5,6 +5,7 @@ On Sep 27th 2018 it was announced that ICONOMI would be setting up a new company
 
 Date | Title
 ---|---
+10-Oct-2018 | [eICN Frequently Asked Questions, Part I](https://medium.com/iconominet/eicn-frequently-asked-questions-part-i-3adba6de27e4)
 27-Sep-2018 | [A New Chapter for ICONOMI: Transformation of Corporate Governance and Issuance of Equity Tokens](https://medium.com/iconominet/a-new-chapter-for-iconomi-transformation-of-corporate-governance-and-issuance-of-equity-tokens-dc603df2272b) 
 27-Sep-2018 | [The Technical and Legal Side of ICONOMI’s Transformation](https://medium.com/iconominet/the-technical-and-legal-side-of-iconomis-transformation-542319b96f0f)
 
