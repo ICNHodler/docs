@@ -658,7 +658,7 @@ When AUM and other DAA statistics will be retrievable through API?
 Will there be a lock-up period for eICN? If so, how long?
 *Asked by @UncleJun*
 
-The process of exchanging ICN tokens for shares in ICONOMI AG will start on November 1, 2018 and last until December 31, 2018. Until the allocation of shares is complete, ICN deposited on the platform, either for the purpose of exchanging for ETH or swapping for ICONOMI AG shares, will be locked. On January 10, 2019 the process will continue by paying out the ETH or by allocating shares to those who have opted for it. The eICN process, meaning tokenization of the shares of ICONOMI AG, is scheduled to begin in Q1 2019.
+> The process of exchanging ICN tokens for shares in ICONOMI AG will start on November 1, 2018 and last until December 31, 2018. Until the allocation of shares is complete, ICN deposited on the platform, either for the purpose of exchanging for ETH or swapping for ICONOMI AG shares, will be locked. On January 10, 2019 the process will continue by paying out the ETH or by allocating shares to those who have opted for it. The eICN process, meaning tokenization of the shares of ICONOMI AG, is scheduled to begin in Q1 2019.
 *Answered 19th October 2018*
 
 # Q90
