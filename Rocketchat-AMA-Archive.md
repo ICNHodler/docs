@@ -517,3 +517,118 @@ Will Iconomi, in the future, ever implement decentralized features into the Icon
 
 > Implementing decentralized features is an option for the future that could bring benefits for certain parts of the platform. The state of blockchain isn't quite there yet for us to build the kind of decentralized features we would want for our users.
 *Answered 7th September 2018*
+
+# Q70
+A retrospective on Q2 given in the Monthly update from July noted that 2/3rds of DAAs outperformed Bitcoin. This is a great stat that really shows the value of ICONOMI portfolios as investment vehicles. Having asked the community members in rocket.chat, we feel that ICONOMI's portfolio performance reporting could be strengthened to improve user experience and help foster engagement with the benefits the ICONOMI platform has to offer. As such, would it be possible for the team to respond to the contents of IIP2: https://icnhodler.com/IIPS/iip-2, a wish list for portfolio performance reporting. Are any or all of these features planned as part of the upgrade in user stats in the 2018 roadmap? If any are not, would the team consider including them in the 2019 roadmap?
+*Asked by @RayQuin*
+
+> We appreciate the work you've put into the IIPs. @miha, our CTO, will provide some comments on them as part of next week's AMA.
+*Answered 14th September 2018* 
+
+# Q71
+How come Cardano is not listed yet ?
+*Asked by @gnossienli*
+
+> We’ve noted your interest, but there also needs to be some interest from DAA managers before we can consider adding a new digital asset, as explained in our overview of our process of adding new digital assets: https://medium.com/iconominet/iconomis-process-of-adding-new-digital-assets-5e2d57c22fc3
+*Answered 14th September 2018* 
+
+# Q72
+Can you share some insights about upcoming Maltese regulations and what it means for ICONOMI and ICN? Will you try to register ICN as a virtual financial asset or will it fall under the scope of MiFID as a transferable security?
+*Asked by @elly*
+
+> We’ll be sharing insights and news related to Malta and Maltese regulations by the end of September.
+*Answered 14th September 2018* 
+
+# Q73
+How does the news that CFI is closing doors affect Iconomi? Are there any similar plans to close Iconomi down?
+*Asked by @martijn*
+
+> The only effect is on the position ICONOMI has in CFI tokens (we have 50 mio CFI tokens). This position will be exchanged for ETH according to Cofound.it’s stated plan, and based on the fiat value we are expecting to get more than our last reported value in our Q2 report. Regarding plans for closing down ICONOMI operations: we do not have any such plans.
+*Answered 21st September 2018* 
+
+# Q74
+1b in aum was projected for 2018. However the icn team has only accumulated 4.5m this year in new user deposits. (Total deposits - total withdraws). What do you think icn did wrong or could’ve done better?
+*Asked by @stephen*
+
+> There are always things that could be done better and faster. We can say that we may have seen better figures if we had had the fiat gateway in place when the bull market happened.
+*Answered 21st September 2018* 
+
+# Q75
+Is iconomi considering following a path similar to cfi where all assets are liquidated and returned to token holders?
+*Asked by @stephen*
+
+> No, we are not considering this.
+*Answered 21st September 2018*
+
+# Q76
+Why is it that iconomi has had a decrease in active users on the platform over the last three quarters?
+*Asked by @stephen*
+
+> This quarter we performed an overview of our current customer base. We are closely monitoring user behavior based on new feature releases and platform developments, and we have found new opportunities for improvement in user registration process flows dependent on third-party service providers. We are taking a proactive approach to removing any obstacles users may encounter when onboarding/verifying on our platform, which has been difficult or cumbersome for some users in the past. We believe that user activity will grow once targeting is more precise and, especially, once there is an established legal framework and the fiat gateway is fully in place, which will allow us to actively advertise our services. There is also a lack of diversity in DAAs—because they are still closely correlated, changing positions may be seen as not providing much benefit. With the introduction of a stablecoin, DAAs options should start to increase in diversity. Another key reason is the passive nature of our user base. Many of our users change their positions only very rarely once they have decided which DAAs to buy into.
+*Answered 21st September 2018*
+
+# Q77
+Will this still take place today? "We appreciate the work you've put into the IIPs. @miha, our CTO, will provide some comments on them as part of next week’s AMA."
+*Asked by @stricken03*
+
+> Yes, Miha will be commenting directly on Github. You can check Miha's responses here: https://github.com/ICNHodler/IIPs/issues
+*Answered 21st September 2018*
+
+# Q78
+Main importance for ICN hodlers was buybacks... And the fees....
+With this going away, how does a eICN holder benefit if ICONOMI does well and grows?
+*Asked by @mennopp*
+
+> If ICONOMI performs well and grows, this should be reflected in the rising value of eICN. Profit can also be paid out to shareholders if they decide this via the General Assembly (e.g. dividends or buybacks).
+*Answered 28th September 2018*
+
+# Q79
+Please hold a dedicated AMA for the incorporation with 10+ questions answered (pretty please)
+*Asked by @albertid*
+
+> We will continue to release information and we will be collecting the most commonly asked questions, which will be answered in a comprehensive blog post.
+*Answered 28th September 2018*
+
+# Q80
+Does today’s announcement mean that USA holders who are ineligible for tier 2 status on icn site will be forced to liquidate at .0019 eth?
+*Asked by @stephen*
+
+> US ICN holders and holders from other countries that are currently unable to verify for Tier 2 are able to hold their ICN indefinitely without liquidating. We are proactively looking for a solution that will enable these ICN holders to convert their ICN to eICN. We will be opening a communication channel where we will keep these holders informed about our progress.
+*Answered 28th September 2018*
+
+# Q81
+If I own 1% of ICN and choose to convert to eICN, will I then own 1% of eICN? Or will additional shares be issued?
+*Asked by @UncleJun*
+
+> Yes, ownership of 1% of ICN will represent ownership of 1% of eICN.
+*Answered 28th September 2018*
+
+# Q82
+What will happen with the ICN that will be swapped against ETH?
+Will the eICN supposed to be equivalent to these ICN be burned, so less shares created?
+*Asked by @zoulman*
+
+> 1. ICN swapped for ETH will go into the treasury and will go through the eICN conversion process.
+> 2. No, but there may be minor differences due to rounding.
+*Answered 28th September 2018*
+
+# Q83
+Is it possible that new security tokenss could pay out dividends or will there still be a buyback burnout model?
+*Asked by investmox*
+
+> Both of these models are possible. The final decision on how profits will be used will be up to the General Assembly.
+*Answered 28th September 2018*
+
+# Q84
+will there be an official document on the ownership of the company's shares?
+*Asked by @bumerang007*
+
+> Yes, there will.
+*Answered 28th September 2018*
+
+# Q85
+The number of ICNs specified in CCP will be distributed among ICN owners?
+*Asked by @bumerang007*
+
+> Pinta’s assets will be moved to the treasury and as such will still be under ICONOMI's ownership. We will be publishing more information next week.
+*Answered 28th September 2018*
