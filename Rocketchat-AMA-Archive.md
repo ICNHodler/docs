@@ -632,3 +632,45 @@ The number of ICNs specified in CCP will be distributed among ICN owners?
 
 > Pinta’s assets will be moved to the treasury and as such will still be under ICONOMI's ownership. We will be publishing more information next week.
 *Answered 28th September 2018*
+
+# Q86
+Will every DAA be able to be bought with fiat directly or only the tokenized ones?
+*Asked by @albertid*
+
+> All existing DAAs will be purchasable via the fiat gateway, regardless of tokenization.
+*Answered 19th October 2018*
+
+# Q87
+Can you share some insights and news about Maltese blockchain acts coming into force November 1st and the effect these acts will have on the Platform (product) specifically?
+*Asked by @elly*
+
+> We will collect relevant insights about Maltese blockchain regulation in a blog post.
+*Answered 19th October 2018*
+
+# Q88
+When AUM and other DAA statistics will be retrievable through API?
+*Asked by @egidijus*
+
+> We will be releasing updates and notifying the community as we progress. There is no public timeline for the upgrades.
+*Answered 19th October 2018*
+
+# Q89
+Will there be a lock-up period for eICN? If so, how long?
+*Asked by @UncleJun*
+
+The process of exchanging ICN tokens for shares in ICONOMI AG will start on November 1, 2018 and last until December 31, 2018. Until the allocation of shares is complete, ICN deposited on the platform, either for the purpose of exchanging for ETH or swapping for ICONOMI AG shares, will be locked. On January 10, 2019 the process will continue by paying out the ETH or by allocating shares to those who have opted for it. The eICN process, meaning tokenization of the shares of ICONOMI AG, is scheduled to begin in Q1 2019.
+*Answered 19th October 2018*
+
+# Q90
+will there be a fixed supply of eICN and a circulating supply replicating ICNs? (so eICN will also include 'burned' eICN?)
+*Asked by @jesusthatsgreat*
+
+> The supply of eICN will be determined based on the number of shares of ICONOMI AG that will be issued. However, as eICN is expected to be similar to regular shares in the company, based on corporate law, in some cases there could be a new emission of shares (or eICN tokens) or a reduction. Supply will therefore not be fixed.
+*Answered 19th October 2018*
+
+# Q91
+Will profits on the sale of assets now be 100% used to fund business expenses / expansion as opposed to being partially distributed to shareholders as was the case with Pinta?
+*Asked by @jesusthatsgreat*
+
+>  Any profits from the sale of assets will be put into the company balance sheet, which will increase the value of company holdings. Based on the corporate law that defines joint-stock companies, it is up to the general assembly to decide whether these profits are used for the development of the company or distributed to shareholders in the form of dividends.
+*Answered 19th October 2018*
