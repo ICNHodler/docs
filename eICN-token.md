@@ -72,6 +72,24 @@ The number of ICNs specified in CCP will be distributed among ICN owners?
 >  Pinta’s assets will be moved to the treasury and as such will still be under ICONOMI's ownership. We will be publishing more information next week.
 > *Answered 28th Sep 2018*
 
+Will there be a lock-up period for eICN? If so, how long?
+*Asked by @UncleJun*
+
+> The process of exchanging ICN tokens for shares in ICONOMI AG will start on November 1, 2018 and last until December 31, 2018. Until the allocation of shares is complete, ICN deposited on the platform, either for the purpose of exchanging for ETH or swapping for ICONOMI AG shares, will be locked. On January 10, 2019 the process will continue by paying out the ETH or by allocating shares to those who have opted for it. The eICN process, meaning tokenization of the shares of ICONOMI AG, is scheduled to begin in Q1 2019.
+*Answered 19th October 2018*
+
+will there be a fixed supply of eICN and a circulating supply replicating ICNs? (so eICN will also include 'burned' eICN?)
+*Asked by @jesusthatsgreat*
+
+> The supply of eICN will be determined based on the number of shares of ICONOMI AG that will be issued. However, as eICN is expected to be similar to regular shares in the company, based on corporate law, in some cases there could be a new emission of shares (or eICN tokens) or a reduction. Supply will therefore not be fixed.
+*Answered 19th October 2018*
+
+Will profits on the sale of assets now be 100% used to fund business expenses / expansion as opposed to being partially distributed to shareholders as was the case with Pinta?
+*Asked by @jesusthatsgreat*
+
+>  Any profits from the sale of assets will be put into the company balance sheet, which will increase the value of company holdings. Based on the corporate law that defines joint-stock companies, it is up to the general assembly to decide whether these profits are used for the development of the company or distributed to shareholders in the form of dividends.
+*Answered 19th October 2018*
+
 # FAQs Published by ICONOMI
 
 Will you buy ICN at .0019 even if exchanges don’t delist ICN? Which exchanges would have to delist ICN for you to buy at that floor?
