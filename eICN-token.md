@@ -14,6 +14,18 @@ Date | Title
 
 # Tweets
 
+>The user interface for submitting non-binding interest for shares in ICONOMI AG or exchanging ICN for ETH is now available: http://bit.ly/converticntw
+
+https://twitter.com/iconominet/status/1057307647735664646 - 30th Oct 2018
+
+>Read our blog post about submitting non-binding interest for shares in #ICONOMI AG or exchanging ICN for ETH here: https://t.co/KHFgl5IPTe
+
+https://twitter.com/iconominet/status/1057307362514616320 - 30th Oct 2018
+
+>Read Part I of our post clarifying the most common questions about the #ICONOMI eICN equity token: https://t.co/DVH5740VRr
+
+https://twitter.com/iconominet/status/1050025416034013190 - 10th Oct 2018
+
 >ICN will be converted into the eICN equity token, which most exchanges are not currently legally prepared to offer. We expect that some exchanges will choose to delist ICN. (1/2)
 
 https://twitter.com/iconominet/status/1049591245662773248 - 9th Oct 2018
