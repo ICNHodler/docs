@@ -107,6 +107,64 @@ Will profits on the sale of assets now be 100% used to fund business expenses / 
 
 # FAQs Published by ICONOMI
 
+Can I change my mind after submitting my non-binding interest/completing the exchange process?
+
+> Yes. If an ICN token holder changes their preference, they can revisit www.iconomi.com at any time during the non-binding period, click the “Convert ICN” button, and cancel their previous choice. After cancellation, ICN token holders can repeat the process by choosing to convert a smaller amount of their ICN tokens into ICONOMI AG shares, choosing not to convert their ICN tokens at all, choosing to exchange their ICN tokens for ETH instead of converting them into ICONOMI AG shares. The only process that is final and unable to be changed is the exchange of ICN tokens for ETH (see below). The process can be repeated several times within the periods indicated in our latest announcement.
+
+> Notwithstanding the above, please note that since the first exchange of ICN tokens into ETH will be done in December 2018, i.e., during the first round of submission of non-binding interest to convert ICN tokens into ICONOMI AG shares, once the process of exchange of ICN tokens for ETH is irreversible (please see the technical description below), ICN token holders can no longer change their mind about exchanging their ICN tokens for ETH.
+
+What is the conversion rate between ICN tokens and ICONOMI AG shares?
+
+> We currently predict that the conversion rate between ICN tokens and ICONOMI AG shares will be 10:1 (i.e., for every 10 ICN tokens, 1 ICONOMI AG share will be issued). This is merely a mathematical operation for determining the value of one ICONOMI AG share and still retains our obligation to treat each ICN token holder equally.
+
+> If an ICN token holder has a number of ICN tokens not divisible by 10, they will be compensated in ETH for the balance of the ICN tokens they will not be able to convert into ICONOMI AG shares.
+
+What is the technical process of exchanging ICN tokens for ETH?
+
+> ICN token holders who transfer their ICN tokens to the ICONOMI platform for exchange for ETH from October 30, 2018 to approximately December 10, 2018 (so that the transfer of ICN tokens will be mined on the Ethereum blockchain up to and including block number 6867000) will be included in the first batch of the exchange. The block number is due to be reached on approximately December 10, 2018, but this cannot be precisely predicted (the current latest block can be seen at https://etherscan.io/blocks at the top the table). ETH will be sent to these ICN token holders’ wallets no later than December 31, 2018.
+
+> ICN token holders who transfer their ICN tokens to the ICONOMI platform for exchange for ETH from approximately December 11, 2018 (see above) to December 31, 2018 (so that the transfer of ICN tokens will be mined on the Ethereum blockchain up to and including a predefined block number; the exact block number will be publicly announced after December 10, 2018 and no later than December 14, 2018) will be included in the second batch of the exchange. The block number is due to be reached on approximately December 31, 2018 but cannot be precisely predicted (the current latest block can be seen at https://etherscan.io/blocks at the top the table). ETH will be sent to these ICN token holders’ wallets no later than January 15, 2019.
+
+Will the fee for later converting ICN to eICN be a nominal fee to cover costs, or is it intended to go up over time, even if the holders of those ICN tokens still aren’t able to convert to eICN?
+
+> Most likely a nominal fee to cover costs, but this will be finalized in the future.
+
+Could you set a contract to temporarily freeze ICN given from those who would like to lock in at a fair price, even possibly based on ICO contribution, without the need to be disqualified from conversion to eICN as of next month?
+
+> Thank you for your suggestion and perspective, but the process has been finalized and the user interface released.
+
+Will 1:ICN/x:eICN always be honored?
+
+> The ICN to ICONOMI AG share ratio will not change, though there may be additional fees. It will no longer be possible to convert ICN to eICN after December 31, 2019.
+
+What is the reason for waiting for 2019 if you want to swap your ICN for ETH?
+
+> The timeline is in place for operational reasons. We needed to ensure we would have enough time to carry out the exchange process without any issues for those who choose to convert their ICN to ETH.
+
+Does ICONOMI intend to obtain a MIFID II license in accordance with the Liechtenstein Banking Act so it can offer investments in security tokens through the ICONOMI platform?
+
+> We are investigating this option. We believe there will be many security tokens in the future, and being competitive in this field may require licenses of this kind, depending on the jurisdiction.
+
+When will the first general assembly take place?
+
+> The date of the first general assembly has not been set. We will publicly announce the date once it has been defined.
+
+Since ICONOMI has officially stated ICN will always be able to be exchanged for eICN past the December 31 deadline with an additional fee, does that also mean the ratio of 1% ICN will equate to 1% eICN if exchanged after the Dec 31st deadline?
+
+> Yes, this ratio will not change after December 31, 2018. However, as stated previously, there may be additional fees.
+
+If eICN will not be tradeable, will you purchase/sell eICN over the counter on the platform?
+
+> This is a possibility for the future. Our current focus is on executing the conversion process smoothly. We believe security token exchanges will be a major trend in 2019, and we look forward to being part of it.
+
+Since you will be buying ICN significantly below book value at .0019 ETH, are you concerned that large shareholders will just convert to eICN so they can vote to liquidate eICN at book value at the first vote?
+
+> This is not something we are concerned about.
+
+Is eICN covered under the Malta VFA act?
+
+> Because ICONOMI AG shares will be securities, they are not covered under the Malta VFA Act.
+
 Will you buy ICN at .0019 even if exchanges don’t delist ICN? Which exchanges would have to delist ICN for you to buy at that floor?
 
 > Yes, the option to sell your ICN to ICONOMI at the rate of .0019 will be available even if exchanges don’t delist ICN. This option will not require verification on the ICONOMI platform.
