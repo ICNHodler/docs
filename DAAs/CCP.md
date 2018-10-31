@@ -1,7 +1,9 @@
 # Columbus Capital Pinta (CCP)
-Columbus Capital Pinta is a closed-end actively managed [Digital Asset Array](../Digital-Asset-Arrays.md) managed by [Columbus Capital](../Columbus-Capital.md) who invest in blockchain based projects (primarily ICOs). 
+Columbus Capital Pinta was a closed-end actively managed [Digital Asset Array](../Digital-Asset-Arrays.md) managed by [Columbus Capital](../Columbus-Capital.md). 
 
 Formerly known as ICNP and managed by [ICONOMI](../ICONOMI.md), the fund was created after the [ICONOMI ICO](../ICONOMI-ICO.md) in 2016. It was seeded with approximately $4.5m worth of digital assets and in early 2018 it was valued at over $200m.
+
+In October 2018, ICONOMI decided to end their relationship with Columbus Capital and took back control of all assets previously managed by Columbus Capital: https://medium.com/iconominet/restructuring-pinta-and-blx-3b83404d224a
 
 # DAA Strategy
 > Pinta connects supporters' digital assets with the best distributed economy startups and other lucrative opportunities. Pinta is an actively managed DAA with a higher performance target, lead by a team of experts conducting thorough research and due diligence.
