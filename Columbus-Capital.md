@@ -1,3 +1,5 @@
+**Note**: on Oct 12th 2018 it was announced that ICONOMI had decided to end ties with Columbus Capital and take back control of all assets previously managed by Columbus Capital: https://medium.com/iconominet/restructuring-pinta-and-blx-3b83404d224a. 
+
 # Columbus Capital
 Columbus Capital Ltd. is an investment firm based in London. It is led by Igor Erker, who has received FCA approval, and ICONOMI co-founder Jani Valjavec. In August 2017, Columbus Capital were appointed as the first asset management partner of ICONOMI. ICONOMI stated that:
 
