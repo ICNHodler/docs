@@ -1,6 +1,6 @@
 # Quarterly Reports
 
-|| [Q1 2017](https://medium.com/iconominet/iconomi-financial-report-q1-2017-a1b9dff59e2c) | [Q2 2017](https://medium.com/iconominet/iconomi-financial-report-q2-2017-dced466c67e8) | [Q3 2017](https://medium.com/iconominet/iconomi-financial-report-q3-2017-45dc25f30730) | [Q4 2017](https://medium.com/iconominet/iconomi-financial-report-q4-2017-17da25349f3d) | [Q1 2018](https://medium.com/iconominet/iconomi-financial-report-q1-2018-81e1ea0a11a8) | [Q2 2018](https://medium.com/iconominet/iconomi-financial-report-q2-2018-c6a2322794e1) | [Q2 2018](https://medium.com/iconominet/iconomi-financial-report-q3-2018-305bdfc88ec0)
+|| [Q1 2017](https://medium.com/iconominet/iconomi-financial-report-q1-2017-a1b9dff59e2c) | [Q2 2017](https://medium.com/iconominet/iconomi-financial-report-q2-2017-dced466c67e8) | [Q3 2017](https://medium.com/iconominet/iconomi-financial-report-q3-2017-45dc25f30730) | [Q4 2017](https://medium.com/iconominet/iconomi-financial-report-q4-2017-17da25349f3d) | [Q1 2018](https://medium.com/iconominet/iconomi-financial-report-q1-2018-81e1ea0a11a8) | [Q2 2018](https://medium.com/iconominet/iconomi-financial-report-q2-2018-c6a2322794e1) | [Q3 2018](https://medium.com/iconominet/iconomi-financial-report-q3-2018-305bdfc88ec0)
 ---|---|---|---|---|---|---|---
 | Book value | 21,605,453 | 108,549,800 | 119,787,278 | 327,001,779 | 150,921,961 | 148,840,329 | 96,232,810
 ||
