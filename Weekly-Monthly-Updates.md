@@ -2,6 +2,7 @@
 
 Year | Month | Monthly Update | Biweekly Updates*
 ---|---|---|--- 
+2018 | Nov | - | 
 2018 | Oct | [Link](https://medium.com/iconominet/iconomi-monthly-update-x-1b123bf2bc70) | [Oct 12](https://medium.com/iconominet/the-iconomi-digest-4d43ce9f258e), [Oct 26](https://medium.com/iconominet/the-iconomi-digest-f4b79c6dfaa6) 
 2018 | Sep | [Link](https://medium.com/iconominet/monthly-update-ix-a4dfbc9019e) | [Sep 14](https://medium.com/iconominet/the-iconomi-digest-b689cf1fa438), [Sep 28](https://medium.com/iconominet/the-iconomi-digest-93ef55b8dd0c)
 2018| Aug | [Link](https://medium.com/iconominet/monthly-update-viii-e0b9ae04937f) | [Aug 3](https://medium.com/iconominet/the-iconomi-digest-5349d2c46ccb), [Aug 17](https://medium.com/iconominet/the-iconomi-digest-fb37a182560f), [Aug 31](https://medium.com/iconominet/the-iconomi-digest-ad12ed81a3b4)
@@ -20,4 +21,4 @@ Year | Month | Monthly Update | Biweekly Updates*
 2017 | Jul | [Link](https://medium.com/iconominet/iconomi-monthly-update-july-2017-207ba56bfcf3)
 2017 | Jun | [Link](https://medium.com/iconominet/iconomi-monthly-update-june-2017-e77f4a92b858)
 
-*Weekly updates changed to biweekly updates in July 2018
+*Weekly updates changed to biweekly updates in July 2018. In October 2018 it was announced that biweekly updates would be discontinued.
