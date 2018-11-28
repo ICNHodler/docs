@@ -15,6 +15,10 @@ Date | Title
 
 # Tweets
 
+>Still have some questions about the eICN security token? Read our new blog post: https://t.co/HMPTDuMJLZ
+
+https://twitter.com/iconominet/status/1065995535193116673 - 23rd Nov 2018
+
 >The user interface for submitting non-binding interest for shares in ICONOMI AG or exchanging ICN for ETH is now available: http://bit.ly/converticntw
 
 https://twitter.com/iconominet/status/1057307647735664646 - 30th Oct 2018
