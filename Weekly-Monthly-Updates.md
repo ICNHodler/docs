@@ -2,6 +2,7 @@
 
 Year | Month | Monthly Update | Biweekly Updates*
 ---|---|---|--- 
+2018 | Dec | [Link](https://medium.com/iconominet/monthly-update-xii-3fa0ef624a9) | 
 2018 | Nov | [Link](https://medium.com/iconominet/iconomi-monthly-update-xi-9de11e7d3662) | 
 2018 | Oct | [Link](https://medium.com/iconominet/iconomi-monthly-update-x-1b123bf2bc70) | [Oct 12](https://medium.com/iconominet/the-iconomi-digest-4d43ce9f258e), [Oct 26](https://medium.com/iconominet/the-iconomi-digest-f4b79c6dfaa6) 
 2018 | Sep | [Link](https://medium.com/iconominet/monthly-update-ix-a4dfbc9019e) | [Sep 14](https://medium.com/iconominet/the-iconomi-digest-b689cf1fa438), [Sep 28](https://medium.com/iconominet/the-iconomi-digest-93ef55b8dd0c)
