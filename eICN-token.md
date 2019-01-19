@@ -5,6 +5,7 @@ On Sep 27th 2018 it was announced that ICONOMI would be setting up a new company
 
 Date | Title
 ---|---
+08-Jan-2018 | [eICN Exchange Process Continues](https://medium.com/iconominet/eicn-exchange-process-continues-239a0941666f)
 07-Dec-2018 | [eICN Frequently Asked Questions, Part III](https://medium.com/iconominet/eicn-frequently-asked-questions-part-iii-73743c40d8f2)
 23-Nov-2018 | [Everything you need to know about eICN](https://medium.com/iconominet/everything-you-need-to-know-about-eicn-6114279a260e)
 30-Oct-2018 | [Terms & Conditions for ICN Token Conversation](https://www.iconomi.net/assets/docs/ICONOMI_GTC_ICN_transformation_general-f62093feae5550aeaf257e296bbbead37612b47e0b3529698d60c73e467bb947.pdf)
