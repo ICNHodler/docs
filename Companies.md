@@ -10,3 +10,4 @@ Malta | [ICONOMI LIMITED](https://opencorporates.com/companies/mt/C83445) | C834
 Cayman Islands | [Columbus Nina Limited](https://www.columbusfinancialadvisory.com/cfa-blog/2018/3/15/columbus-nina-limited-incorporated) | - | 02-Feb-2018
 Liechtenstein | [ICONOMI AG](http://www.oera.li/webservices/HRG/HRG.asmx/getHRGHTML?chnr=0002594137&amt=690&toBeModified=0&validOnly=11000&lang=1&sort=0) | FL-0002.594.137-5 | 12-Oct-2018
 Saint Vincent and the Grenadines | [ICONOMI SV](http://www.info-clipper.com/en/company/st-vincent-the-grenadines/iconomi-inc.vcddig9kb.html) | 23680 IBC 2016 | -
+Slovenia | [Iconomi d.o.o.](https://search.bisnode.si/si/468234/iconomi-d-o-o/) | 8303517000 | 23-Oct-2018
