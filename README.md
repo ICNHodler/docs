@@ -4,7 +4,7 @@ The goal of https://github.com/ICNHodler/docs is to enable collaboration between
 List of all pages:
 
 - [ICONOMI](ICONOMI.md)
-- [Digital Asset Arrays](Digital-Asset-Arrays.md)
+- [Digital Portfolios](Digital-Portfolios.md)
 - [ICN Token](ICN-token.md)
 - [Columbus Capital](Columbus-Capital.md)
 - [Columbus Capital Pinta](Columbus-Capital-Pinta.md)
